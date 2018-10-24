@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Zdroják</title>
+	<atom:link href="https://www.zdrojak.cz/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.zdrojak.cz</link>
+	<description>o tvorbě webových stránek a aplikací</description>
+	<lastBuildDate>Sat, 13 Oct 2018 10:30:44 +0000</lastBuildDate>
+	<language>cs-CZ</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Poslední sobota #99 v Brně</title>
+		<link>https://www.zdrojak.cz/zpravicky/posledni-sobota-99-v-brne/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=posledni-sobota-99-v-brne</link>
+		<comments>https://www.zdrojak.cz/zpravicky/posledni-sobota-99-v-brne/#respond</comments>
+		<pubDate>Sat, 13 Oct 2018 10:30:44 +0000</pubDate>
+		<dc:creator><![CDATA[Honza Černý]]></dc:creator>
+				<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Akce]]></category>
+		<category><![CDATA[Digidetox]]></category>
+		<category><![CDATA[Elasticsearch]]></category>
+		<category><![CDATA[Knihovny a frameworky]]></category>
+		<category><![CDATA[PoSobota]]></category>
+		<category><![CDATA[RabbitMQ]]></category>
+		<category><![CDATA[REST API]]></category>
+
+		<guid isPermaLink="false">https://www.zdrojak.cz/?post_type=zpravicky&#038;p=21965</guid>
+		<description><![CDATA[ <div><img width="100" height="100" src="https://www.zdrojak.cz/wp-content/uploads/2015/02/posobota-100x100.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.zdrojak.cz/wp-content/uploads/2015/02/posobota-100x100.jpg 100w, https://www.zdrojak.cz/wp-content/uploads/2015/02/posobota.jpg 150w, https://www.zdrojak.cz/wp-content/uploads/2015/02/posobota-32x32.jpg 32w" sizes="(max-width: 100px) 100vw, 100px" /></div>20. řijna se v brněnském KoPlacu uskuteční sraz webových vývojářů PoSobota. Odpolední blok přednášek začne klasicky v 15:00. Okruh témat je různý, ale vše velmi blízké webovému vývoji. Jak jinak. Program Matěj Krejčí – Digidetox&#8230;]]></description>
+				<content:encoded><![CDATA[ <div><img width="100" height="100" src="https://www.zdrojak.cz/wp-content/uploads/2015/02/posobota-100x100.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.zdrojak.cz/wp-content/uploads/2015/02/posobota-100x100.jpg 100w, https://www.zdrojak.cz/wp-content/uploads/2015/02/posobota.jpg 150w, https://www.zdrojak.cz/wp-content/uploads/2015/02/posobota-32x32.jpg 32w" sizes="(max-width: 100px) 100vw, 100px" /></div><p><strong>20. řijna</strong> se v brněnském <a href="http://koplac.cz/">KoPlacu</a> uskuteční sraz webových vývojářů <a href="https://www.posobota.cz/">PoSobota</a>.</p>
+<p>Odpolední blok přednášek začne klasicky v 15:00. Okruh témat je různý, ale vše velmi blízké webovému vývoji. Jak jinak.</p>
+<h2>Program</h2>
+<ul>
+<li>Matěj Krejčí – Digidetox – Jak zvládnout technologie a nezbláznit se?</li>
+<li>Filip Prochazka – Jak psát testy na REST API</li>
+<li>Honza Kadeřábek – RabbitMQ: Pokročilé tipy&amp;triky a efektivní využití Supervisoru</li>
+<li>Martin Jonáš – Shrnutí principů metody GRASP pro vytváření OOP návrhu</li>
+<li>Milan Pála – Centrální přihlašování do všech našich projektů (Proof of concept v Pecce) [short]</li>
+<li>Jirka Pudil – Jak psát ještě hubenější API v PHP [short]</li>
+<li>Jan Kuchař &#8211; Enum jako výčet možných chování? [short]</li>
+</ul>
+<p>Dopolední <a href="https://www.eventbrite.com/e/workshop-vaclav-cevela-elasticsearch-tickets-50978255334">workshop</a> povede Václav Čevela a projedem si věci kolem Elastic search</p>
+<p>Vstup na akci je <strong>zdarma</strong>, <a href="https://www.eventbrite.com/e/posledni-sobota-99-brno-posobota-tickets-51064737003"><strong>registraci</strong></a> a více informací najdete na → <a href="https://www.posobota.cz">www.posobota.cz</a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.zdrojak.cz/zpravicky/posledni-sobota-99-v-brne/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Unconference věnovaná Javě</title>
+		<link>https://www.zdrojak.cz/zpravicky/unconference-venovana-jave/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=unconference-venovana-jave</link>
+		<comments>https://www.zdrojak.cz/zpravicky/unconference-venovana-jave/#respond</comments>
+		<pubDate>Thu, 11 Oct 2018 18:20:27 +0000</pubDate>
+		<dc:creator><![CDATA[Anežka Müller]]></dc:creator>
+				<category><![CDATA[Různé]]></category>
+		<category><![CDATA[Akce]]></category>
+		<category><![CDATA[Brno]]></category>
+		<category><![CDATA[Java]]></category>
+
+		<guid isPermaLink="false">https://www.zdrojak.cz/news/unconference-venovana-jave/</guid>
+		<description><![CDATA[V brněnském vývojovém centru společnosti SolarWinds již pravidelně pořádáme neformální setkání pro profesionály v oblasti testování softwaru &#8211; Testing Unconference. Protože se tento formát akce ujal a ukázal se být celkem populární, rozhodli jsme&#8230;]]></description>
+				<content:encoded><![CDATA[<p>V brněnském vývojovém centru společnosti <strong>SolarWinds</strong> již pravidelně pořádáme neformální setkání pro profesionály v oblasti testování softwaru &#8211; Testing Unconference. Protože se tento formát akce ujal a ukázal se být celkem populární, rozhodli jsme se ho uplatnit i pro jiné oblasti.</p>
+<p><a href="https://www.zdrojak.cz/wp-content/uploads/2018/10/coffee-1202021_1280-870x450.jpg"><img class="aligncenter size-medium wp-image-21962" src="https://www.zdrojak.cz/wp-content/uploads/2018/10/coffee-1202021_1280-870x450-450x233.jpg" alt="" width="450" height="233" srcset="https://www.zdrojak.cz/wp-content/uploads/2018/10/coffee-1202021_1280-870x450-450x233.jpg 450w, https://www.zdrojak.cz/wp-content/uploads/2018/10/coffee-1202021_1280-870x450-768x397.jpg 768w, https://www.zdrojak.cz/wp-content/uploads/2018/10/coffee-1202021_1280-870x450-100x52.jpg 100w, https://www.zdrojak.cz/wp-content/uploads/2018/10/coffee-1202021_1280-870x450.jpg 870w" sizes="(max-width: 450px) 100vw, 450px" /></a></p>
+<p>Rádi bychom vás tedy pozvali na naši první <strong><a href="https://www.solarwindsmeetup.com/event/unconference-o-jave/">Unconference zaměřenou na Javu</a></strong>, která se uskuteční ve čtvrtek 8. 11. 2018 od 16:00 v našich prostorách na Holandské 6 v Brně.</p>
+<p>Unconference je formát akce, kde je agenda tvořena přímo účastníky na místě &#8211; vybírá se z navržených témat, o kterých se poté diskutuje.</p>
+<p>Rádi bychom tedy vytvořili prostor pro setkání profesionálů v oblasti vývoje v Javě, kde mohou otevřeně diskutovat o čemkoliv, co je v rámci této oblasti zajímá nebo pálí.</p>
+<p>Více o akci včetně formuláře pro přihlášení najdete <a href="https://www.solarwindsmeetup.com/event/unconference-o-jave/">zde</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.zdrojak.cz/zpravicky/unconference-venovana-jave/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Souhrn 40. týdne</title>
+		<link>https://www.zdrojak.cz/clanky/40-tyden-2018/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=40-tyden-2018</link>
+		<comments>https://www.zdrojak.cz/clanky/40-tyden-2018/#respond</comments>
+		<pubDate>Mon, 08 Oct 2018 11:53:28 +0000</pubDate>
+		<dc:creator><![CDATA[Redakce]]></dc:creator>
+				<category><![CDATA[Různé]]></category>
+		<category><![CDATA[tydenni-prehled]]></category>
+
+		<guid isPermaLink="false">https://www.zdrojak.cz/clanky/?p=21943</guid>
+		<description><![CDATA[ <div><img width="100" height="86" src="https://www.zdrojak.cz/wp-content/uploads/2018/10/linuxdays-100x86.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.zdrojak.cz/wp-content/uploads/2018/10/linuxdays-100x86.png 100w, https://www.zdrojak.cz/wp-content/uploads/2018/10/linuxdays.png 399w" sizes="(max-width: 100px) 100vw, 100px" /></div>💻 Přísnější pravidla pro Chrome rozšíření. Firefox Focus. Win10 October Update. Wi-Fi 1-6. MS Edge. Sans Forgetica. Code Week. WebP do Firefoxu. Git chyba. 📅 LinuxDays 2018.]]></description>
+				<content:encoded><![CDATA[ <div><img width="100" height="86" src="https://www.zdrojak.cz/wp-content/uploads/2018/10/linuxdays-100x86.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.zdrojak.cz/wp-content/uploads/2018/10/linuxdays-100x86.png 100w, https://www.zdrojak.cz/wp-content/uploads/2018/10/linuxdays.png 399w" sizes="(max-width: 100px) 100vw, 100px" /></div><p>Nestíháte vše sledovat? Máte přeplněnou RSS čtečku? Tady jste správně – <a href="https://www.zdrojak.cz/n/tydenni-prehled/">každý týden</a>.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Google zpřísňuje pravidla pro rozšíření do Chrome na svém Storu.</p>
+<p>Mj. kód již nesmí být obfuscovaný, vývojáři stávajících rozšíření mají čas do konce roku ke změně.  <a href="https://t.co/fjHnOXaZbI">https://t.co/fjHnOXaZbI</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1047049977804066816?ref_src=twsrc%5Etfw">October 2, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Firefox Focus je minimalistický mobilní prohlížeč s důrazem na soukromí. Na Androidu nyní od nové verze používá renderovací jádro Gecko. <a href="https://t.co/y9Ud3qtWxS">https://t.co/y9Ud3qtWxS</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1047443170097856512?ref_src=twsrc%5Etfw">October 3, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Na počítače s Windows 10 pomalu míří October 2018 Update.</p>
+<p>Vývojáře by mohl zaujmout Dark mode (zatím ho podporuje jen pár aplikací), nový MS Edge (s moderní autentizací) a konečně Notepad s podporou unix a mac zakončení řádků. Více najdete v přehledu. <a href="https://t.co/IpZI5Wbuqp">https://t.co/IpZI5Wbuqp</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1047471487391817728?ref_src=twsrc%5Etfw">October 3, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Bylo navrženo nové označování verzí Wi-Fi, stávající je nepřehledné. Pokud Wi-Fi aliance nové označování prosadí, budeme používat:</p>
+<p>Wi-Fi 1 pro specifikaci 802.11a<br />Wi-Fi 2 pro 802.11b<br />Wi-Fi 3: 802.11g<br />Wi-Fi 4: 802.11n<br />Wi-Fi 5: 802.11ac<br />Wi-Fi 6: 802.11ax <a href="https://t.co/6o9KZohSZl">https://t.co/6o9KZohSZl</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1047616886198980608?ref_src=twsrc%5Etfw">October 3, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Přehled novinek v Microsoft Edge October 2018 Update.</p>
+<p>Hlavní jsou podpora WebAuthn, novinky v service workers, CSS maskách a notifikacích. Uživatelé zákaz autoplay a nondistraction čtecí mód s fokusem pro učení. <a href="https://t.co/BgVvn5HmIQ">https://t.co/BgVvn5HmIQ</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1047956392563429377?ref_src=twsrc%5Etfw">October 4, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Zkuste nový free font Sans Forgetica pro lepší zapamatování.</p>
+<p>Čte se špatně. Dle výzkumu učení a paměti si lépe pamatujeme, pokud při učení narážíme na obtíže (zjednodušeně řečeno). Sans Forgetica se snaží cíleně takovou obtíž vytvořit. <a href="https://t.co/so51O1Evut">https://t.co/so51O1Evut</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1048112568995389440?ref_src=twsrc%5Etfw">October 5, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Již zítra začíná celoevropský projekt <a href="https://twitter.com/hashtag/codeweek?src=hash&amp;ref_src=twsrc%5Etfw">#codeweek</a><img src="https://s.w.org/images/core/emoji/11/72x72/1f469-200d-1f4bb.png" alt="👩‍💻" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/11/72x72/1f468-200d-1f4bb.png" alt="👨‍💻" class="wp-smiley" style="height: 1em; max-height: 1em;" />Po celé<img src="https://s.w.org/images/core/emoji/11/72x72/1f1ea-1f1fa.png" alt="🇪🇺" class="wp-smiley" style="height: 1em; max-height: 1em;" />se koná mnoho akcí a projektů podporujících dovednosti programování.<img src="https://s.w.org/images/core/emoji/11/72x72/1f1e8-1f1ff.png" alt="🇨🇿" class="wp-smiley" style="height: 1em; max-height: 1em;" />Český <a href="https://twitter.com/CodeWeekCz?ref_src=twsrc%5Etfw">@CodeWeekCz</a> proběhne ve dnech 10.-18.10. Konkrétní akce ve Vašem okolí najdete zde: <a href="https://t.co/LWCsw2odCO">https://t.co/LWCsw2odCO</a> <a href="https://twitter.com/CodeWeekEU?ref_src=twsrc%5Etfw">@CodeWeekEU</a></p>
+<p>&mdash; Digiczech (@digiczech) <a href="https://twitter.com/digiczech/status/1048150707055026177?ref_src=twsrc%5Etfw">October 5, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Firefox bude podporovat obrázkový formát WebP vyvinutý Googlem. Připojí se tak k Chromu a Edgi. <a href="https://t.co/7CzPBlUmBZ">https://t.co/7CzPBlUmBZ</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1048311865351307264?ref_src=twsrc%5Etfw">October 5, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">V Gitu je chyba umožňující za jistých okolností spustit kód (u projektů klonovaných s recursive-submodules). K dispozici jsou již nové verze s opravou. <a href="https://t.co/95VvsGf6xt">https://t.co/95VvsGf6xt</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1048312869971021825?ref_src=twsrc%5Etfw">October 5, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Tento víkend probíhá LinuxDays 2018. Sledovat můžete i online přes YouTube. <a href="https://t.co/6KPPCFrCyr">https://t.co/6KPPCFrCyr</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1048482125891211264?ref_src=twsrc%5Etfw">October 6, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.zdrojak.cz/clanky/40-tyden-2018/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Seznam IT akademie &#8211; Testování webových aplikací</title>
+		<link>https://www.zdrojak.cz/zpravicky/seznam-it-akademie-testovani-webovych-aplikaci/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=seznam-it-akademie-testovani-webovych-aplikaci</link>
+		<comments>https://www.zdrojak.cz/zpravicky/seznam-it-akademie-testovani-webovych-aplikaci/#respond</comments>
+		<pubDate>Mon, 08 Oct 2018 11:13:57 +0000</pubDate>
+		<dc:creator><![CDATA[zima]]></dc:creator>
+				<category><![CDATA[Různé]]></category>
+
+		<guid isPermaLink="false">https://www.zdrojak.cz/news/seznam-it-akademie-testovani-webovych-aplikaci/</guid>
+		<description><![CDATA[V Brně chystáme v termínu 9. – 10. 11. bezplatný workshop Seznam IT akademie věnovaný Testování webových aplikací. Neváhejte a přijďte si prohloubit své znalosti v oblasti testování, seznámit se s kolegy Miroslav&#8230;]]></description>
+				<content:encoded><![CDATA[<p>V Brně chystáme v termínu 9. – 10. 11. bezplatný workshop Seznam IT akademie věnovaný <strong>Testování webových aplikací.</strong> Neváhejte a přijďte si prohloubit své znalosti v oblasti testování, seznámit se s kolegy <a href="https://www.linkedin.com/in/ACoAAAyG8RABPKvMrGuUUxpAFz8elCm38ovYCQw/"><b>Miroslav Jančařík</b></a> a <a href="https://www.linkedin.com/in/ACoAABcdXJABQxm6cALyRmiBN5y48PL0nhrBTcw/"><b>Filip Šátek</b></a> a samozřejmě i dalšími návštěvníky workshopu. Veškeré informace o workshopu naleznete na webu -&gt; <a href="https://bit.ly/2O1dGwB">https://bit.ly/2O1dGwB</a></p>
+<p>V případě zájmu se nám prosím ozvěte na <a href="mailto:itakademie@firma.seznam.cz">itakademie@firma.seznam.cz</a>.Uzávěrka přihlášek je do pondělí 29. 10. 2018.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.zdrojak.cz/zpravicky/seznam-it-akademie-testovani-webovych-aplikaci/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Reactive Meetups vol. 5: End-to-end testing with Cypress</title>
+		<link>https://www.zdrojak.cz/zpravicky/reactive-meetups-vol-5-end-to-end-testing-with-cypress/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=reactive-meetups-vol-5-end-to-end-testing-with-cypress</link>
+		<comments>https://www.zdrojak.cz/zpravicky/reactive-meetups-vol-5-end-to-end-testing-with-cypress/#respond</comments>
+		<pubDate>Fri, 05 Oct 2018 10:12:04 +0000</pubDate>
+		<dc:creator><![CDATA[ACTUM Digital]]></dc:creator>
+				<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[Akce]]></category>
+		<category><![CDATA[Praha]]></category>
+
+		<guid isPermaLink="false">https://www.zdrojak.cz/news/reactive-meetups-vol-5-end-to-end-testing-with-cypress/</guid>
+		<description><![CDATA[Další Reactive Meetups je tady. Tentokrát si přijďte poslechnout skvělého speakra Gleba Bahmutova ze Cypress, který je JavaScript ninja a také fanatik do testování. Mluvit bude právě o end-to-end testování, aby bylo rychlé,&#8230;]]></description>
+				<content:encoded><![CDATA[<p>Další Reactive Meetups je tady. Tentokrát si přijďte poslechnout skvělého speakra <strong>Gleba Bahmutova</strong> ze <strong>Cypress</strong>, který je JavaScript ninja a také fanatik do testování. Mluvit bude právě o end-to-end testování, aby bylo rychlé, užitečné a hlavně účinné. Samozřejmě i představí sílu testovacího nástroje Cypress.</p>
+<p>Akce startuje ve čtvrtek 25. října v ACTUM Digital (budova Visionary, Plynární 20, Holešovice).</p>
+<ul>
+<li><a href="https://www.facebook.com/events/1791237414327459/">Facebook událost</a></li>
+<li><a href="https://ti.to/reactive-free/reactivemeetups-prague-E2Etesting">Registrace</a></li>
+</ul>
+<p><img src="https://s.w.org/images/core/emoji/11/72x72/23f1.png" alt="⏱" class="wp-smiley" style="height: 1em; max-height: 1em;" />Časová osa: 18:30 Registrace | 19:00 Zahájení 19:05 Talk | 20:20 Jídlo, pití a networking <img src="https://s.w.org/images/core/emoji/11/72x72/1f355.png" alt="🍕" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/11/72x72/1f37a.png" alt="🍺" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.zdrojak.cz/zpravicky/reactive-meetups-vol-5-end-to-end-testing-with-cypress/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Čtyřiadvacetihodinový hackathon Seznam.cz vyhledávání</title>
+		<link>https://www.zdrojak.cz/zpravicky/hackathon-seznam-cz-vyhledavani/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hackathon-seznam-cz-vyhledavani</link>
+		<comments>https://www.zdrojak.cz/zpravicky/hackathon-seznam-cz-vyhledavani/#respond</comments>
+		<pubDate>Wed, 03 Oct 2018 13:36:24 +0000</pubDate>
+		<dc:creator><![CDATA[martin.jurca]]></dc:creator>
+				<category><![CDATA[Různé]]></category>
+		<category><![CDATA[Akce]]></category>
+		<category><![CDATA[Hackathon]]></category>
+
+		<guid isPermaLink="false">https://www.zdrojak.cz/news/ctyriadvacetihodinovy-hackathon-seznam-cz-vyhledavani/</guid>
+		<description><![CDATA[Seznam.cz zve zájemce z řad veřejnosti na hackathon, který proběhne nad daty z fulltextového vyhledávání. Začátek akce je v pátek 9.11. v 17 h a potrvá 24 hodin na centrále Seznamu (Praha 5 – Anděl). Přihlásit se mohou&#8230;]]></description>
+				<content:encoded><![CDATA[<p>Seznam.cz zve zájemce z řad veřejnosti na <a href="https://blog.seznam.cz/udalost/ctyriadvacetihodinovy-hackathon-seznam-cz-vyhledavani/">hackathon</a>, který proběhne nad daty z fulltextového vyhledávání. Začátek akce je v pátek 9.11. v 17 h a potrvá 24 hodin na centrále Seznamu (Praha 5 – Anděl). Přihlásit se mohou tří až pětičlenné týmy, ale i jednotlivci. Právě pro jednotlivce uspořádáme s týdenním předstihem setkání, abychom umožnili vytvoření týmů.</p>
+<p>Jak bude hackathon probíhat? Dostanete přístup k <a href="https://docs.google.com/document/d/1MFZPxVqdaKkjj2ZresZqvVmqZP4TZ7mWY9KB31oG0jU/edit">datům</a>, ze kterých v Seznamu skládáme odpovědi na hledané dotazy. Dostanete přístup k živému streamu hledaných dotazů a nástroj pro práci s dotazy. Krom toho můžete použít i jiná volně dostupná data. Vítězný projekt či projekty ověříme formou AB testu v reálném provozu v rámci svého vyhledávače, nebo v uživatelských testech.</p>
+<p>V případě zájmu se nám prosím ozvěte na <a href="mailto:hackathon@firma.seznam.cz">hackathon@firma.seznam.cz</a>. Uzávěrka přihlášek je do úterý 23.10.2018.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.zdrojak.cz/zpravicky/hackathon-seznam-cz-vyhledavani/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Seznamte se, React Native</title>
+		<link>https://www.zdrojak.cz/clanky/seznamte-se-react-native/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=seznamte-se-react-native</link>
+		<pubDate>Tue, 02 Oct 2018 22:31:52 +0000</pubDate>
+		<dc:creator><![CDATA[Redakce]]></dc:creator>
+				<category><![CDATA[PR Články]]></category>
+
+		<guid isPermaLink="false">https://www.zdrojak.cz/clanky/?p=21882</guid>
+		<description><![CDATA[ <div><img width="100" height="100" src="https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock-1-e1538493444698-100x100.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock-1-e1538493444698-100x100.jpg 100w, https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock-1-e1538493444698-150x150.jpg 150w, https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock-1-e1538493444698-32x32.jpg 32w, https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock-1-e1538493444698.jpg 299w" sizes="(max-width: 100px) 100vw, 100px" /></div>Proč se nebát React Native a proč začít právě s ním, když už přece znáte React.]]></description>
+				<content:encoded><![CDATA[ <div><img width="100" height="100" src="https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock-1-e1538493444698-100x100.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock-1-e1538493444698-100x100.jpg 100w, https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock-1-e1538493444698-150x150.jpg 150w, https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock-1-e1538493444698-32x32.jpg 32w, https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock-1-e1538493444698.jpg 299w" sizes="(max-width: 100px) 100vw, 100px" /></div><p>Napsali jste kupu webů a webových aplikací v Reactu, nosíte v hlavě nápad na úžasnou mobilní aplikaci a občas si vzpomenete, že existuje něco jako React Native. Možná vám rozhodování urychlím. Vysvětlím základní rozdíly a inovace, které React Native přináší, a ukážu, v čem je jeho krása, jednoduchost i složitost.</p>
+<p>Sám jsem se s React Native setkal teprve před několika měsíci, když jsem začal pracovat na novém projektu v Creative Docku. Po týdnech, kdy se u mě střídalo zoufalství a euforie z pochopení každé malé části této knihovny, jsem se rozhodl podělit o pár zásadních informací, které bych si na začátku sám přál slyšet. Vědět, proč React Native není jen další v řadě a s čím do světa mobilního vývoje přichází, je první krok k tomu, abyste si udělali představu o celém systému. A chtěli se s ním učit.</p>
+<p><a href="https://www.zdrojak.cz/wp-content/uploads/2018/10/perex-pr.jpg"><img class="size-full wp-image-21886 aligncenter" src="https://www.zdrojak.cz/wp-content/uploads/2018/10/perex-pr.jpg" alt="" width="590" height="332" srcset="https://www.zdrojak.cz/wp-content/uploads/2018/10/perex-pr.jpg 590w, https://www.zdrojak.cz/wp-content/uploads/2018/10/perex-pr-450x253.jpg 450w, https://www.zdrojak.cz/wp-content/uploads/2018/10/perex-pr-100x56.jpg 100w" sizes="(max-width: 590px) 100vw, 590px" /></a></p>
+<p>Oproti vývoji mobilních aplikací „webovou“ cestou přináší jednu zásadní změnu. Pokud jste se již setkali s nástroji, jako jsou Ionic, Phonegap, Sencha a podobnými službami, pravděpodobně k React Native přistoupíte s podobnou představou o tom, jak bude vývoj i výsledek vypadat. Nemohli byste být dál od pravdy. V případě React Native se nejedná o žádný wrapper, ve kterém by se zobrazovala vaše webová aplikace, HTML kód, hybridní aplikace ani nic podobného. Výsledným produktem bude plnohodnotná nativní aplikace, složená z nativních komponent dané platformy, pro kterou aplikaci publikujete.</p>
+<p>Jako programátoři nebo i kodéři máte ovšem dostatečné znalosti pro to, abyste s vývojem začali. Zejména způsob stylování aplikace vám bude povědomý a celkem snadno se zorientujete. Zejména, pokud jste se již setkali se styly uvnitř JS. Celý React Native je od začátku navrhován tak, aby vývojářům usnadnil přechod z Reactu. To vystihuje i samotný claim „Learn Once, Write Anywhere“.</p>
+<p>První, čeho si při psaní aplikace hned všimnete – ve chvíli, kdy úspěšně inicializujete vzorovou aplikaci, – budou nové komponenty, ze kterých je aplikace složená. Půjde zejména o „View“ a „Text“. Jako drtivá většina zapálených vývojářů, kteří otevřeli dokumentaci, jen aby došli k „react-native init“, a dále zatím nečetli, se pokusíte udělat v index.js nějakou úpravu, abyste díky fungujícímu hot reloadu ukojili touhu vidět změnu v opravdové nativní aplikaci, která běží v simulátoru.</p>
+<p>Zejména se znalostí kódování vás napadnou desítky html tagů a některý z nich zkusíte přidat. První chyba lávky, a nemusí být v Tróji. Jak jsem již zmínil, kód komponent v React Native vypadá identicky s tím, na který jste byli zvyklí ve webovém vývoji. Jenže technicky nelze použít žádný html tag – prostě proto, že to není web. Je třeba si uvědomit, že každá komponenta, která v konečné fázi renderuje cokoliv do UI, je jedna z existujících nativních komponent dané platformy, nikoliv hezky nastylované html.</p>
+<p>Tyto nativní komponenty samozřejmě nejsou na obou platformách (iOS, Android) totožné a už vůbec ne psané ve stejném jazyce. Proto React Native přichází s určitou dávkou abstrakce, aby kód, který píšete, mohl být z co největší části sdílený mezi platformami.</p>
+<p>Při sebevětší snaze ovšem jednou dojdete do momentu, kdy bude třeba napsat část kódu specifického pro jednu platformu. V jednodušším případě se budou jen mírně lišit props komponenty, jindy bude potřeba použít zcela jinou nativní komponentu. Pro větší rozdíly, kdy se vám mezi platformami rozchází například design celého screenu, můžete využít rozlišování specifických souborů pro danou platformu úpravou názvu souboru „*.ios.js“, či „*.android.js“. V jednodušších případech pouhé inline podmínky. Tak můžete odlišovat nejen soubory s kódem, ale třeba i obrázky. Nejen pro různé platformy, ale třeba i rozlišení.</p>
+<p><a href="https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock.jpg"><img class="aligncenter size-full wp-image-21895" src="https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock.jpg" alt="" width="590" height="332" srcset="https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock.jpg 590w, https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock-450x253.jpg 450w, https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock-100x56.jpg 100w" sizes="(max-width: 590px) 100vw, 590px" /></a></p>
+<p>Co dělá React Native tak zajímavým oproti jiným nástrojům, které vám dříve umožňovaly tvořit mobilní aplikace za pomoci webových technologií? Zejména jeho architektura, která stále dovoluje využít pro business logiku JavaScript, a přesto vytvářet aplikaci složenou z nativních komponent.</p>
+<p>Velkou změnou je, že celé UI je spuštěno v hlavním vláknu, které má každá aplikace, ale JavaScript engine využívá vlákno jiné. Díky tomu je aplikace v React Native o poznání rychlejší. Odezva rozhraní aplikace se nijak nezhoršuje ani při složitějších výpočtech v JS. Díky nativním komponentám máte oproti běžnému DOMu k dispozici širší možnosti, jak s aplikací interagovat. Můžete například využívat více nativních gest, která by vám běžná webová stránka, byť na mobilním zařízení, nenabízela a na která jsou uživatelé nativních aplikací zvyklí.</p>
+<p>Doufám, že se najde alespoň jediný člověk, který právě teď otevírá terminál a chce zkusit, jak React Native funguje. Pokud vás zaujme víc, třeba se potkáme na nějakém dalším zajímavém projektu u nás v Creative Docku. Právě teď hledáme developery, kteří se s námi pustí do fintechové revoluce. <a href="https://tech.creativedock.com/">Přidejte se</a>!</p>
+<div id="attachment_21887" style="width: 210px" class="wp-caption alignleft"><img class="wp-image-21887" src="https://www.zdrojak.cz/wp-content/uploads/2018/10/ZDROJAK.CZ_Adam-Javurek-1-350x350.jpg" alt="" width="200" height="200" srcset="https://www.zdrojak.cz/wp-content/uploads/2018/10/ZDROJAK.CZ_Adam-Javurek-1-350x350.jpg 350w, https://www.zdrojak.cz/wp-content/uploads/2018/10/ZDROJAK.CZ_Adam-Javurek-1-150x150.jpg 150w, https://www.zdrojak.cz/wp-content/uploads/2018/10/ZDROJAK.CZ_Adam-Javurek-1-100x100.jpg 100w, https://www.zdrojak.cz/wp-content/uploads/2018/10/ZDROJAK.CZ_Adam-Javurek-1-32x32.jpg 32w, https://www.zdrojak.cz/wp-content/uploads/2018/10/ZDROJAK.CZ_Adam-Javurek-1.jpg 420w" sizes="(max-width: 200px) 100vw, 200px" /><p class="wp-caption-text">Autor článku: Adam Javůrek, <a href="https://creativedock.com/">Creative Dock</a></p></div>
+<p>&nbsp;</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Souhrn 39. týdne</title>
+		<link>https://www.zdrojak.cz/clanky/39-tyden-2018/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=39-tyden-2018</link>
+		<comments>https://www.zdrojak.cz/clanky/39-tyden-2018/#respond</comments>
+		<pubDate>Tue, 02 Oct 2018 15:35:17 +0000</pubDate>
+		<dc:creator><![CDATA[Redakce]]></dc:creator>
+				<category><![CDATA[Různé]]></category>
+		<category><![CDATA[tydenni-prehled]]></category>
+
+		<guid isPermaLink="false">https://www.zdrojak.cz/clanky/?p=21900</guid>
+		<description><![CDATA[💻  Neuznávané certifikáty. Firefox Monitor. Atom 1.31. Vivadli 2.0. TypeScript 3.1. Zdrojáky MS-DOS. Modulární CSS. Videa z WebExpa 2018. Arkády v Internet Archivu. Soutěž The Catch 2018. Solod a Inrupt. ]]></description>
+				<content:encoded><![CDATA[<p>Nestíháte vše sledovat? Máte přeplněnou RSS čtečku? Tady jste správně – <a href="https://www.zdrojak.cz/n/tydenni-prehled/">každý týden</a>.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Chrome a Firefox za pár dní přestanou uznávat certifikáty vydané Thawte, VeriSign, GeoTrust, RapidSSL atd. Tyto weby přestanou být v prohlížečích dostupné. Týká se tento problém i státních webů? <br />Týká &#8211; MŽP, <a href="https://twitter.com/hashtag/CUZK?src=hash&amp;ref_src=twsrc%5Etfw">#CUZK</a> a <a href="https://twitter.com/min_dopravy?ref_src=twsrc%5Etfw">@min_dopravy</a>. Ostudou zůstavá <a href="https://twitter.com/vnitro?ref_src=twsrc%5Etfw">@vnitro</a>. <a href="https://t.co/fHGKQXGKtQ">https://t.co/fHGKQXGKtQ</a></p>
+<p>&mdash; Hlídač Státu (@HlidacStatu) <a href="https://twitter.com/HlidacStatu/status/1044560768451178497?ref_src=twsrc%5Etfw">September 25, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Nová služba Firefox Monitor vás upozorní, pokud bylo vaše heslo odcizeno z některé z hacknutých aplikací. <a href="https://t.co/ifj1PUYaAz">https://t.co/ifj1PUYaAz</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1044651166276218881?ref_src=twsrc%5Etfw">September 25, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Rozcestník po tom nejzajímavějším z letošního <a href="https://twitter.com/hashtag/webexpo?src=hash&amp;ref_src=twsrc%5Etfw">#webexpo</a> <a href="https://twitter.com/hashtag/webexpo2018?src=hash&amp;ref_src=twsrc%5Etfw">#webexpo2018</a> fotky, ohlasy, videa. <a href="https://t.co/1yhEkQjQrg">https://t.co/1yhEkQjQrg</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1044666225803096067?ref_src=twsrc%5Etfw">September 25, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr"><img src="https://s.w.org/images/core/emoji/11/72x72/1f5a5.png" alt="🖥" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Vyšlo Vivaldi 2.0.</p>
+<p>Prohlížeč od tvůrců Opery postavený na Chrome, který se soustředí hlavně na pokročilé UI. <a href="https://t.co/uQnbe89EIC">https://t.co/uQnbe89EIC</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1044884028476858368?ref_src=twsrc%5Etfw">September 26, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Webové prohlížeče v ČR v roce 2018: Chrome, Firefox, IE, Edge. Na mobilech postupně roste Samsung a Seznam. <a href="https://t.co/ovhjqWh2cy">https://t.co/ovhjqWh2cy</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1044886248156999680?ref_src=twsrc%5Etfw">September 26, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Co je to modulární CSS?</p>
+<p>Podrobný článek. <a href="https://t.co/ZCVXvfJYHR">https://t.co/ZCVXvfJYHR</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1045006499205001216?ref_src=twsrc%5Etfw">September 26, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Projekt Internet Archive už dávno nearchivuje jenom webové stránky.</p>
+<p>Nyní v něm najdete (a můžete hrát přes web) více než 1100 starých arkádových her. <a href="https://t.co/PKzkHiLiD5">https://t.co/PKzkHiLiD5</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1045023836096401409?ref_src=twsrc%5Etfw">September 26, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="und" dir="ltr">Atom 1.31 a drobné novinky. <a href="https://t.co/ncJT9Tw0e3">https://t.co/ncJT9Tw0e3</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1045025092286251009?ref_src=twsrc%5Etfw">September 26, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">The Catch 2018 je hackerská soutěž od CESNET a Trend Micro.</p>
+<p>Soutěží malé týmy. Registrace je spuštěna. Soutěž začne během října. <a href="https://t.co/f0ZR8bhPhn">https://t.co/f0ZR8bhPhn</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1045031227928059904?ref_src=twsrc%5Etfw">September 26, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">TypScript 3.1. Drobné novinky. Je to jen pár týdnů, co vyšla trojka. <a href="https://t.co/WrMNDuvlIK">https://t.co/WrMNDuvlIK</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1045394007826796545?ref_src=twsrc%5Etfw">September 27, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Záznamy přednášek z <a href="https://twitter.com/hashtag/webexpo?src=hash&amp;ref_src=twsrc%5Etfw">#webexpo</a> už najdete veřejně na webu. A je toho opravdu hodně. <a href="https://t.co/E1TWnHPZOY">https://t.co/E1TWnHPZOY</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1045394909296037888?ref_src=twsrc%5Etfw">September 27, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Tim Berners-Lee představil Inrup &#8211; návrh moderních aplikací, ve kterém mají uživatelé kontrolu nad svými daty. <a href="https://t.co/2qXtt7w57Y">https://t.co/2qXtt7w57Y</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1046661065914945536?ref_src=twsrc%5Etfw">October 1, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Zdrojový kód MS-DOS 1.25 a 2.0 nyní najdete na GitHubu pod MIT licencí.</p>
+<p>Opensourcován byl již před několika lety, nyní přibyl oficiální repozitář na GitHubu. <a href="https://t.co/sCZm7R8bru">https://t.co/sCZm7R8bru</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1046677988237021184?ref_src=twsrc%5Etfw">October 1, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Creation of a software <a href="https://t.co/jujzEgDNUX">pic.twitter.com/jujzEgDNUX</a></p>
+<p>&mdash; Farbod Saraf (@farbodsaraf) <a href="https://twitter.com/farbodsaraf/status/1046440802698874880?ref_src=twsrc%5Etfw">September 30, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.zdrojak.cz/clanky/39-tyden-2018/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WebExpo 2018 &#8211; fotky, ohlasy, videa</title>
+		<link>https://www.zdrojak.cz/clanky/webexpo-2018-fotky-ohlasy-videa/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=webexpo-2018-fotky-ohlasy-videa</link>
+		<comments>https://www.zdrojak.cz/clanky/webexpo-2018-fotky-ohlasy-videa/#comments</comments>
+		<pubDate>Tue, 25 Sep 2018 19:08:13 +0000</pubDate>
+		<dc:creator><![CDATA[Redakce]]></dc:creator>
+				<category><![CDATA[Různé]]></category>
+		<category><![CDATA[WebExpo]]></category>
+
+		<guid isPermaLink="false">https://www.zdrojak.cz/clanky/?p=21871</guid>
+		<description><![CDATA[ <div><img width="100" height="100" src="https://www.zdrojak.cz/wp-content/uploads/2017/09/Webexpo2017-100x100.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.zdrojak.cz/wp-content/uploads/2017/09/Webexpo2017-100x100.jpg 100w, https://www.zdrojak.cz/wp-content/uploads/2017/09/Webexpo2017-150x150.jpg 150w, https://www.zdrojak.cz/wp-content/uploads/2017/09/Webexpo2017-350x350.jpg 350w, https://www.zdrojak.cz/wp-content/uploads/2017/09/Webexpo2017-32x32.jpg 32w, https://www.zdrojak.cz/wp-content/uploads/2017/09/Webexpo2017.jpg 400w" sizes="(max-width: 100px) 100vw, 100px" /></div>Od pátku do neděle proběhlo 11. WebExpo. Do Prahy přijely sdílet své know-how osobnosti z Googlu, Facebooku i top českých technologických firem. Sdílíme zde několik fotografií, ohlasů návštěvníků a první videa z přednášek.]]></description>
+				<content:encoded><![CDATA[ <div><img width="100" height="100" src="https://www.zdrojak.cz/wp-content/uploads/2017/09/Webexpo2017-100x100.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.zdrojak.cz/wp-content/uploads/2017/09/Webexpo2017-100x100.jpg 100w, https://www.zdrojak.cz/wp-content/uploads/2017/09/Webexpo2017-150x150.jpg 150w, https://www.zdrojak.cz/wp-content/uploads/2017/09/Webexpo2017-350x350.jpg 350w, https://www.zdrojak.cz/wp-content/uploads/2017/09/Webexpo2017-32x32.jpg 32w, https://www.zdrojak.cz/wp-content/uploads/2017/09/Webexpo2017.jpg 400w" sizes="(max-width: 100px) 100vw, 100px" /></div><p><iframe width="500" height="281" src="https://www.youtube.com/embed/OTsQdTeB2K0?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Dnešní den bude ve znameni <a href="https://twitter.com/hashtag/webexpo2018?src=hash&amp;ref_src=twsrc%5Etfw">#webexpo2018</a> <a href="https://t.co/jx4MZVZ4ve">pic.twitter.com/jx4MZVZ4ve</a></p>
+<p>&mdash; Lukas Říha (@RihaLu) <a href="https://twitter.com/RihaLu/status/1043048044009336833?ref_src=twsrc%5Etfw">September 21, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Great opening to <a href="https://twitter.com/webexpo?ref_src=twsrc%5Etfw">@webexpo</a> 2018! <a href="https://twitter.com/hashtag/webexpo2018?src=hash&amp;ref_src=twsrc%5Etfw">#webexpo2018</a> <a href="https://t.co/0cSVOay835">pic.twitter.com/0cSVOay835</a></p>
+<p>&mdash; Max Gfeller (@mgfeller) <a href="https://twitter.com/mgfeller/status/1043051240421294080?ref_src=twsrc%5Etfw">September 21, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">This was my last warmup round before the <a href="https://twitter.com/hashtag/webexpo2018?src=hash&amp;ref_src=twsrc%5Etfw">#webexpo2018</a>: Today we’ve performed “small” training session on <a href="https://twitter.com/hashtag/designthinking?src=hash&amp;ref_src=twsrc%5Etfw">#designthinking</a> for our Product Managers. See you on Saturday at Lucerna Cinema ;) <a href="https://t.co/Ki9bAFK5vw">pic.twitter.com/Ki9bAFK5vw</a></p>
+<p>&mdash; BoB Marvan (@BoBMarvan) <a href="https://twitter.com/BoBMarvan/status/1042792299498024961?ref_src=twsrc%5Etfw">September 20, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Dear user, I <img src="https://s.w.org/images/core/emoji/11/72x72/2764.png" alt="❤" class="wp-smiley" style="height: 1em; max-height: 1em;" /> your vintage browser. <a href="https://twitter.com/hashtag/webexpo2018?src=hash&amp;ref_src=twsrc%5Etfw">#webexpo2018</a> day 1 <a href="https://twitter.com/hashtag/microcopy?src=hash&amp;ref_src=twsrc%5Etfw">#microcopy</a> <a href="https://t.co/0EOiO8eYGg">pic.twitter.com/0EOiO8eYGg</a></p>
+<p>&mdash; Adam Blažek (@PrincAm) <a href="https://twitter.com/PrincAm/status/1043276395340816384?ref_src=twsrc%5Etfw">September 21, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Rewinding the last 2 days at <a href="https://twitter.com/hashtag/webexpo2018?src=hash&amp;ref_src=twsrc%5Etfw">#webexpo2018</a> and I have to say it was full of interesting speakers, inspiring talks and impactful experiences.</p>
+<p>Big THANK YOU to all the people behind it (<a href="https://twitter.com/SarkaStrossova?ref_src=twsrc%5Etfw">@SarkaStrossova</a>, <a href="https://twitter.com/michalillich?ref_src=twsrc%5Etfw">@michalillich</a>, the staff, MCs, &#8230;).</p>
+<p>Already looking forward to the next one! <a href="https://t.co/lw1HDoD6Xb">pic.twitter.com/lw1HDoD6Xb</a></p>
+<p>&mdash; Martin Štěpánek (@ShimiTheFirst) <a href="https://twitter.com/ShimiTheFirst/status/1043657870338916352?ref_src=twsrc%5Etfw">September 23, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">This year was truly exceptional <img src="https://s.w.org/images/core/emoji/11/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/11/72x72/1f49b.png" alt="💛" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Thanks to all of you for participating, it was a blast! <img src="https://s.w.org/images/core/emoji/11/72x72/1f60d.png" alt="😍" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/11/72x72/1f64c.png" alt="🙌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://twitter.com/hashtag/webexpo2018?src=hash&amp;ref_src=twsrc%5Etfw">#webexpo2018</a> <a href="https://twitter.com/hashtag/webexpo2019?src=hash&amp;ref_src=twsrc%5Etfw">#webexpo2019</a> <a href="https://t.co/bjFhLaJ0dg">pic.twitter.com/bjFhLaJ0dg</a></p>
+<p>&mdash; WebExpo (@webexpo) <a href="https://twitter.com/webexpo/status/1044248897181429760?ref_src=twsrc%5Etfw">September 24, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">This is tweetable:<br />❝At the time of endless possibilities, it’s up to us—the designers—to help others choose the best way how a technology should support the humankind.<br />— <a href="https://twitter.com/BoBMarvan?ref_src=twsrc%5Etfw">@BoBMarvan</a> at <a href="https://twitter.com/hashtag/webexpo2018?src=hash&amp;ref_src=twsrc%5Etfw">#webexpo2018</a> <a href="https://t.co/HAOhbx4pc6">pic.twitter.com/HAOhbx4pc6</a></p>
+<p>&mdash; Martin Kopta (@atpok) <a href="https://twitter.com/atpok/status/1043473106998824961?ref_src=twsrc%5Etfw">September 22, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>Přednášky online</h2>
+<p>Přednášky byly natáčeny. <a href="https://slideslive.com/t/webexpo">Videa několika z nich již jsou online</a>.</p>
+<h2>Ohlasy</h2>
+<ul>
+<li><a href="https://medium.com/@Ztudeny/9-5-h-p%C5%99edn%C3%A1%C5%A1ek-10-k%C3%A1v-a-2-l-duchovice-webexpo2018-8c25da9b2676">Zdeněk Studený: 9,5 h přednášek, 10 káv a 2 l duchovice –WebExpo2018</a></li>
+<li><a href="https://medium.com/@terezakosnarova/webexpo-2018-pohledem-v%C3%BDzkumn%C3%ADka-337b0d8f81c6">Tereza Kosnarová Venerová: Webexpo 2018 pohledem výzkumník</a></li>
+<li><a href="http://annacopy.cz/2018/09/23/co-si-odnesl-copywriter-z-webexpo-2018/">Anička Sálová: Co si odnesl copywriter z WebExpo 2018?</a></li>
+<li><a href="http://www.likeable.sk/kto-vychova-umelu-inteligenciu-dalsie-dojmy-z-webexpo-2018/">Dávid Starinský: Kto vychová umelú inteligenciu? + ďalšie dojmy z WEBEXPO 2018</a></li>
+<li><a href="https://www.vzhurudolu.cz/blog/122-webexpo-2018">Martin Michálek: Poznámky z WebExpo 2018: AMP, variabilní fonty, performance a spousta dalšího</a></li>
+<li><a href="https://www.czechcrunch.cz/2018/09/webexpo-2018-jak-neobjektivni-data-mohou-vytvorit-rasistickou-umelou-inteligenci/">Jiří Svoboda: WebExpo 2018: Jak neobjektivní data mohou vytvořit rasistickou umělou inteligenci</a></li>
+</ul>
+<p>Pokud víte o dalších ohlasech, přidejte je do komentářů.</p>
+<p>Zdroják byl mediálním partnerem celé <a href="https://www.webexpo.net/prague2018">akce</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.zdrojak.cz/clanky/webexpo-2018-fotky-ohlasy-videa/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>V Praze se vyvíjejí auta bez řidiče</title>
+		<link>https://www.zdrojak.cz/clanky/v-praze-se-vyvijeji-auta-bez-ridice/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=v-praze-se-vyvijeji-auta-bez-ridice</link>
+		<pubDate>Mon, 24 Sep 2018 23:01:20 +0000</pubDate>
+		<dc:creator><![CDATA[Redakce]]></dc:creator>
+				<category><![CDATA[PR Články]]></category>
+
+		<guid isPermaLink="false">https://www.zdrojak.cz/clanky/?p=21840</guid>
+		<description><![CDATA[Chcete nahlédnout do blízké budoucnosti? Podívat se, jak se vyvíjí autonomní systémy řízení? A vyzkoušet si, jak fungují? Přijďte 18. 10. na <a href="http://www.denchytrychaut.cz/?utm_source=zdrojak&#038;utm_medium=referral&#038;utm_campaign=dcha10-2018&#038;utm_content=PRclanekZdrojak">Den chytrých aut</a> do pražského vývojového centra Valeo. ]]></description>
+				<content:encoded><![CDATA[<p>Česká republika je automobilová velmoc nejen z hlediska výroby samotných aut a příslušenství. Vyvíjejí se zde a testují ty nejmodernější asistenční systémy, díky kterým jsou auta bezpečnější a již brzy budou jezdit bez zásahu řidiče. Klíčovým hráčem v této oblasti je skupina Valeo, která si v roce 2013 jako jedno z center vývoje automatizovaných řídicích systémů vybrala Prahu. V oblasti vývoje parkovacích asistenčních systémů a integrace senzorů do automobilů je Valeo jedničkou na světovém trhu.</p>
+<div id="attachment_21845" style="width: 430px" class="wp-caption aligncenter"><a href="https://www.zdrojak.cz/wp-content/uploads/2018/09/Valeo-6.9.2016-photo-Zdenek-Sluka-0123.jpg"><img class="wp-image-21845 size-full" src="https://www.zdrojak.cz/wp-content/uploads/2018/09/Valeo-6.9.2016-photo-Zdenek-Sluka-0123.jpg" alt="" width="420" height="309" srcset="https://www.zdrojak.cz/wp-content/uploads/2018/09/Valeo-6.9.2016-photo-Zdenek-Sluka-0123.jpg 420w, https://www.zdrojak.cz/wp-content/uploads/2018/09/Valeo-6.9.2016-photo-Zdenek-Sluka-0123-100x74.jpg 100w" sizes="(max-width: 420px) 100vw, 420px" /></a><p class="wp-caption-text">Pražské Valeo se zasloužilo o velký posun směrem k autonomním autům budoucnosti.</p></div>
+<h2><b>Vývoj od</b> A<b> do Z</b></h2>
+<p>V pražském R&amp;D centru provádějí vývojáři komplexní vývoj „od A do Z“, tedy od sběru zákaznických požadavků, software a hardware, mechanického designu, elektrických testů, až po systémové testy na testovacím polygonu v Milovicích, nebo přímo v reálném provozu. V hlavním městě nebo ve středních Čechách proto můžete pravidelně narazit na testovací automobily, které na první pohled poznáte například podle Lidar senzoru na střeše a zkušební registrační značky začínající písmenem F.</p>
+<p>V Praze se vyvíjejí dvě základní skupiny asistenčních systémů &#8211; automatické parkovací systémy a systémy aktivní bezpečnosti, které pronikají do základní výbavy i levnějších aut. Dnes prakticky nenajdete automobil, který by neměl nějaký senzor či kameru od společnosti Valeo. V Praze například naučili parkovat nové modely Mercedes-Benz zvenku pomocí mobilu.</p>
+<h2><b>Podívejte</b><b> se</b> do<b> laboratoří</b></h2>
+<p>Valeo každý rok pravidelně umožňuje nahlédnout pod pokličku svého vývoje, a to v rámci akce <a href="http://www.denchytrychaut.cz/?utm_source=zdrojak&amp;utm_medium=referral&amp;utm_campaign=dcha10-2018&amp;utm_content=PRclanekZdrojak">Den chytrých aut</a>. Ta se letos uskuteční ve čtvrtek 18. října od 15 hodin, a to přímo ve vývojovém centru Valeo. Nová moderní budova leží jen pět minut od konečné stanice metra trasy A, Depo Hostivař, takže je skvěle dostupná. Účastníci zde budou mít možnost si popovídat s inženýry, kteří se podílejí na vývoji hardware i software. A samozřejmě si některé systémy vyzkoušet na testovací ploše uvnitř areálu. Pro účast je třeba se však <a href="http://www.denchytrychaut.cz/registrace/?utm_source=zdrojak&amp;utm_medium=referral&amp;utm_campaign=dcha10-2018&amp;utm_content=PRclanekZdrojak">dopředu registrovat</a>.</p>
+<div id="attachment_21846" style="width: 430px" class="wp-caption aligncenter"><a href="https://www.zdrojak.cz/wp-content/uploads/2018/09/Software-engineer-9.jpg"><img class="wp-image-21846 size-full" src="https://www.zdrojak.cz/wp-content/uploads/2018/09/Software-engineer-9.jpg" alt="" width="420" height="280" srcset="https://www.zdrojak.cz/wp-content/uploads/2018/09/Software-engineer-9.jpg 420w, https://www.zdrojak.cz/wp-content/uploads/2018/09/Software-engineer-9-100x67.jpg 100w" sizes="(max-width: 420px) 100vw, 420px" /></a><p class="wp-caption-text">V pražském centru probíhá celý vývojový cyklus. Od napsání software pro novou technologii po testování v normálním silničním provozu.</p></div>
+<h2>Stále se rozšiřuje</h2>
+<p>Vzhledem k neustálému růstu zakázek a rozšiřování vývojového týmu došlo v roce 2017 k přestěhování R&amp;D centra do nového areálu v Praze Strašnicích, který byl postaven na s celkovými náklady více než 600 milionů korun. Letos na začátku dubna však byla otevřena další budova v hodnotě 125 milionů korun o rozloze 2300 m<sup>2</sup>, která poskytuje kancelářské a zkušební kapacity pro dalších 250 inženýrů. Celkově má R&amp;D centrum Valeo v současnosti rozlohu přes 11 000 m<sup>2</sup>, z nichž třetinu zabírají laboratoře vybavené nejmodernějšími testovacími technologiemi.</p>
+<h2>Příležitost pro vývojáře</h2>
+<p>V souvislosti s rozšiřováním vývojových kapacit hledá Valeo i nové kolegy, kteří mají chuť být součástí mezinárodního týmu a podílet se na vytváření budoucnosti aut. Od vývoje až po testování v reálném provozu. Jak třeba vypadá zkoušení laserového skeneru ScaLa pro autonomní řízení, uvidíte v následujícím <a href="https://www.youtube.com/watch?v=Ojzx4rqmoBY">videu</a>.</p>
+<p><iframe width="500" height="281" src="https://www.youtube.com/embed/Ojzx4rqmoBY?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+Připsaný řádek _____________________________________________--Připsaný řádek _____________________________________________--Připsaný řádek _____________________________________________--Připsaný řádek _____________________________________________--<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Zdroják</title>
+	<atom:link href="https://www.zdrojak.cz/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.zdrojak.cz</link>
+	<description>o tvorbě webových stránek a aplikací</description>
+	<lastBuildDate>Sat, 13 Oct 2018 10:30:44 +0000</lastBuildDate>
+	<language>cs-CZ</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Poslední sobota #99 v Brně</title>
+		<link>https://www.zdrojak.cz/zpravicky/posledni-sobota-99-v-brne/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=posledni-sobota-99-v-brne</link>
+		<comments>https://www.zdrojak.cz/zpravicky/posledni-sobota-99-v-brne/#respond</comments>
+		<pubDate>Sat, 13 Oct 2018 10:30:44 +0000</pubDate>
+		<dc:creator><![CDATA[Honza Černý]]></dc:creator>
+				<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Akce]]></category>
+		<category><![CDATA[Digidetox]]></category>
+		<category><![CDATA[Elasticsearch]]></category>
+		<category><![CDATA[Knihovny a frameworky]]></category>
+		<category><![CDATA[PoSobota]]></category>
+		<category><![CDATA[RabbitMQ]]></category>
+		<category><![CDATA[REST API]]></category>
+
+		<guid isPermaLink="false">https://www.zdrojak.cz/?post_type=zpravicky&#038;p=21965</guid>
+		<description><![CDATA[ <div><img width="100" height="100" src="https://www.zdrojak.cz/wp-content/uploads/2015/02/posobota-100x100.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.zdrojak.cz/wp-content/uploads/2015/02/posobota-100x100.jpg 100w, https://www.zdrojak.cz/wp-content/uploads/2015/02/posobota.jpg 150w, https://www.zdrojak.cz/wp-content/uploads/2015/02/posobota-32x32.jpg 32w" sizes="(max-width: 100px) 100vw, 100px" /></div>20. řijna se v brněnském KoPlacu uskuteční sraz webových vývojářů PoSobota. Odpolední blok přednášek začne klasicky v 15:00. Okruh témat je různý, ale vše velmi blízké webovému vývoji. Jak jinak. Program Matěj Krejčí – Digidetox&#8230;]]></description>
+				<content:encoded><![CDATA[ <div><img width="100" height="100" src="https://www.zdrojak.cz/wp-content/uploads/2015/02/posobota-100x100.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.zdrojak.cz/wp-content/uploads/2015/02/posobota-100x100.jpg 100w, https://www.zdrojak.cz/wp-content/uploads/2015/02/posobota.jpg 150w, https://www.zdrojak.cz/wp-content/uploads/2015/02/posobota-32x32.jpg 32w" sizes="(max-width: 100px) 100vw, 100px" /></div><p><strong>20. řijna</strong> se v brněnském <a href="http://koplac.cz/">KoPlacu</a> uskuteční sraz webových vývojářů <a href="https://www.posobota.cz/">PoSobota</a>.</p>
+<p>Odpolední blok přednášek začne klasicky v 15:00. Okruh témat je různý, ale vše velmi blízké webovému vývoji. Jak jinak.</p>
+<h2>Program</h2>
+<ul>
+<li>Matěj Krejčí – Digidetox – Jak zvládnout technologie a nezbláznit se?</li>
+<li>Filip Prochazka – Jak psát testy na REST API</li>
+<li>Honza Kadeřábek – RabbitMQ: Pokročilé tipy&amp;triky a efektivní využití Supervisoru</li>
+<li>Martin Jonáš – Shrnutí principů metody GRASP pro vytváření OOP návrhu</li>
+<li>Milan Pála – Centrální přihlašování do všech našich projektů (Proof of concept v Pecce) [short]</li>
+<li>Jirka Pudil – Jak psát ještě hubenější API v PHP [short]</li>
+<li>Jan Kuchař &#8211; Enum jako výčet možných chování? [short]</li>
+</ul>
+<p>Dopolední <a href="https://www.eventbrite.com/e/workshop-vaclav-cevela-elasticsearch-tickets-50978255334">workshop</a> povede Václav Čevela a projedem si věci kolem Elastic search</p>
+<p>Vstup na akci je <strong>zdarma</strong>, <a href="https://www.eventbrite.com/e/posledni-sobota-99-brno-posobota-tickets-51064737003"><strong>registraci</strong></a> a více informací najdete na → <a href="https://www.posobota.cz">www.posobota.cz</a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.zdrojak.cz/zpravicky/posledni-sobota-99-v-brne/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Unconference věnovaná Javě</title>
+		<link>https://www.zdrojak.cz/zpravicky/unconference-venovana-jave/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=unconference-venovana-jave</link>
+		<comments>https://www.zdrojak.cz/zpravicky/unconference-venovana-jave/#respond</comments>
+		<pubDate>Thu, 11 Oct 2018 18:20:27 +0000</pubDate>
+		<dc:creator><![CDATA[Anežka Müller]]></dc:creator>
+				<category><![CDATA[Různé]]></category>
+		<category><![CDATA[Akce]]></category>
+		<category><![CDATA[Brno]]></category>
+		<category><![CDATA[Java]]></category>
+
+		<guid isPermaLink="false">https://www.zdrojak.cz/news/unconference-venovana-jave/</guid>
+		<description><![CDATA[V brněnském vývojovém centru společnosti SolarWinds již pravidelně pořádáme neformální setkání pro profesionály v oblasti testování softwaru &#8211; Testing Unconference. Protože se tento formát akce ujal a ukázal se být celkem populární, rozhodli jsme&#8230;]]></description>
+				<content:encoded><![CDATA[<p>V brněnském vývojovém centru společnosti <strong>SolarWinds</strong> již pravidelně pořádáme neformální setkání pro profesionály v oblasti testování softwaru &#8211; Testing Unconference. Protože se tento formát akce ujal a ukázal se být celkem populární, rozhodli jsme se ho uplatnit i pro jiné oblasti.</p>
+<p><a href="https://www.zdrojak.cz/wp-content/uploads/2018/10/coffee-1202021_1280-870x450.jpg"><img class="aligncenter size-medium wp-image-21962" src="https://www.zdrojak.cz/wp-content/uploads/2018/10/coffee-1202021_1280-870x450-450x233.jpg" alt="" width="450" height="233" srcset="https://www.zdrojak.cz/wp-content/uploads/2018/10/coffee-1202021_1280-870x450-450x233.jpg 450w, https://www.zdrojak.cz/wp-content/uploads/2018/10/coffee-1202021_1280-870x450-768x397.jpg 768w, https://www.zdrojak.cz/wp-content/uploads/2018/10/coffee-1202021_1280-870x450-100x52.jpg 100w, https://www.zdrojak.cz/wp-content/uploads/2018/10/coffee-1202021_1280-870x450.jpg 870w" sizes="(max-width: 450px) 100vw, 450px" /></a></p>
+<p>Rádi bychom vás tedy pozvali na naši první <strong><a href="https://www.solarwindsmeetup.com/event/unconference-o-jave/">Unconference zaměřenou na Javu</a></strong>, která se uskuteční ve čtvrtek 8. 11. 2018 od 16:00 v našich prostorách na Holandské 6 v Brně.</p>
+<p>Unconference je formát akce, kde je agenda tvořena přímo účastníky na místě &#8211; vybírá se z navržených témat, o kterých se poté diskutuje.</p>
+<p>Rádi bychom tedy vytvořili prostor pro setkání profesionálů v oblasti vývoje v Javě, kde mohou otevřeně diskutovat o čemkoliv, co je v rámci této oblasti zajímá nebo pálí.</p>
+<p>Více o akci včetně formuláře pro přihlášení najdete <a href="https://www.solarwindsmeetup.com/event/unconference-o-jave/">zde</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.zdrojak.cz/zpravicky/unconference-venovana-jave/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Souhrn 40. týdne</title>
+		<link>https://www.zdrojak.cz/clanky/40-tyden-2018/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=40-tyden-2018</link>
+		<comments>https://www.zdrojak.cz/clanky/40-tyden-2018/#respond</comments>
+		<pubDate>Mon, 08 Oct 2018 11:53:28 +0000</pubDate>
+		<dc:creator><![CDATA[Redakce]]></dc:creator>
+				<category><![CDATA[Různé]]></category>
+		<category><![CDATA[tydenni-prehled]]></category>
+
+		<guid isPermaLink="false">https://www.zdrojak.cz/clanky/?p=21943</guid>
+		<description><![CDATA[ <div><img width="100" height="86" src="https://www.zdrojak.cz/wp-content/uploads/2018/10/linuxdays-100x86.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.zdrojak.cz/wp-content/uploads/2018/10/linuxdays-100x86.png 100w, https://www.zdrojak.cz/wp-content/uploads/2018/10/linuxdays.png 399w" sizes="(max-width: 100px) 100vw, 100px" /></div>💻 Přísnější pravidla pro Chrome rozšíření. Firefox Focus. Win10 October Update. Wi-Fi 1-6. MS Edge. Sans Forgetica. Code Week. WebP do Firefoxu. Git chyba. 📅 LinuxDays 2018.]]></description>
+				<content:encoded><![CDATA[ <div><img width="100" height="86" src="https://www.zdrojak.cz/wp-content/uploads/2018/10/linuxdays-100x86.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.zdrojak.cz/wp-content/uploads/2018/10/linuxdays-100x86.png 100w, https://www.zdrojak.cz/wp-content/uploads/2018/10/linuxdays.png 399w" sizes="(max-width: 100px) 100vw, 100px" /></div><p>Nestíháte vše sledovat? Máte přeplněnou RSS čtečku? Tady jste správně – <a href="https://www.zdrojak.cz/n/tydenni-prehled/">každý týden</a>.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Google zpřísňuje pravidla pro rozšíření do Chrome na svém Storu.</p>
+<p>Mj. kód již nesmí být obfuscovaný, vývojáři stávajících rozšíření mají čas do konce roku ke změně.  <a href="https://t.co/fjHnOXaZbI">https://t.co/fjHnOXaZbI</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1047049977804066816?ref_src=twsrc%5Etfw">October 2, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Firefox Focus je minimalistický mobilní prohlížeč s důrazem na soukromí. Na Androidu nyní od nové verze používá renderovací jádro Gecko. <a href="https://t.co/y9Ud3qtWxS">https://t.co/y9Ud3qtWxS</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1047443170097856512?ref_src=twsrc%5Etfw">October 3, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Na počítače s Windows 10 pomalu míří October 2018 Update.</p>
+<p>Vývojáře by mohl zaujmout Dark mode (zatím ho podporuje jen pár aplikací), nový MS Edge (s moderní autentizací) a konečně Notepad s podporou unix a mac zakončení řádků. Více najdete v přehledu. <a href="https://t.co/IpZI5Wbuqp">https://t.co/IpZI5Wbuqp</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1047471487391817728?ref_src=twsrc%5Etfw">October 3, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Bylo navrženo nové označování verzí Wi-Fi, stávající je nepřehledné. Pokud Wi-Fi aliance nové označování prosadí, budeme používat:</p>
+<p>Wi-Fi 1 pro specifikaci 802.11a<br />Wi-Fi 2 pro 802.11b<br />Wi-Fi 3: 802.11g<br />Wi-Fi 4: 802.11n<br />Wi-Fi 5: 802.11ac<br />Wi-Fi 6: 802.11ax <a href="https://t.co/6o9KZohSZl">https://t.co/6o9KZohSZl</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1047616886198980608?ref_src=twsrc%5Etfw">October 3, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Přehled novinek v Microsoft Edge October 2018 Update.</p>
+<p>Hlavní jsou podpora WebAuthn, novinky v service workers, CSS maskách a notifikacích. Uživatelé zákaz autoplay a nondistraction čtecí mód s fokusem pro učení. <a href="https://t.co/BgVvn5HmIQ">https://t.co/BgVvn5HmIQ</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1047956392563429377?ref_src=twsrc%5Etfw">October 4, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Zkuste nový free font Sans Forgetica pro lepší zapamatování.</p>
+<p>Čte se špatně. Dle výzkumu učení a paměti si lépe pamatujeme, pokud při učení narážíme na obtíže (zjednodušeně řečeno). Sans Forgetica se snaží cíleně takovou obtíž vytvořit. <a href="https://t.co/so51O1Evut">https://t.co/so51O1Evut</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1048112568995389440?ref_src=twsrc%5Etfw">October 5, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Již zítra začíná celoevropský projekt <a href="https://twitter.com/hashtag/codeweek?src=hash&amp;ref_src=twsrc%5Etfw">#codeweek</a><img src="https://s.w.org/images/core/emoji/11/72x72/1f469-200d-1f4bb.png" alt="👩‍💻" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/11/72x72/1f468-200d-1f4bb.png" alt="👨‍💻" class="wp-smiley" style="height: 1em; max-height: 1em;" />Po celé<img src="https://s.w.org/images/core/emoji/11/72x72/1f1ea-1f1fa.png" alt="🇪🇺" class="wp-smiley" style="height: 1em; max-height: 1em;" />se koná mnoho akcí a projektů podporujících dovednosti programování.<img src="https://s.w.org/images/core/emoji/11/72x72/1f1e8-1f1ff.png" alt="🇨🇿" class="wp-smiley" style="height: 1em; max-height: 1em;" />Český <a href="https://twitter.com/CodeWeekCz?ref_src=twsrc%5Etfw">@CodeWeekCz</a> proběhne ve dnech 10.-18.10. Konkrétní akce ve Vašem okolí najdete zde: <a href="https://t.co/LWCsw2odCO">https://t.co/LWCsw2odCO</a> <a href="https://twitter.com/CodeWeekEU?ref_src=twsrc%5Etfw">@CodeWeekEU</a></p>
+<p>&mdash; Digiczech (@digiczech) <a href="https://twitter.com/digiczech/status/1048150707055026177?ref_src=twsrc%5Etfw">October 5, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Firefox bude podporovat obrázkový formát WebP vyvinutý Googlem. Připojí se tak k Chromu a Edgi. <a href="https://t.co/7CzPBlUmBZ">https://t.co/7CzPBlUmBZ</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1048311865351307264?ref_src=twsrc%5Etfw">October 5, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">V Gitu je chyba umožňující za jistých okolností spustit kód (u projektů klonovaných s recursive-submodules). K dispozici jsou již nové verze s opravou. <a href="https://t.co/95VvsGf6xt">https://t.co/95VvsGf6xt</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1048312869971021825?ref_src=twsrc%5Etfw">October 5, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Tento víkend probíhá LinuxDays 2018. Sledovat můžete i online přes YouTube. <a href="https://t.co/6KPPCFrCyr">https://t.co/6KPPCFrCyr</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1048482125891211264?ref_src=twsrc%5Etfw">October 6, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.zdrojak.cz/clanky/40-tyden-2018/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Seznam IT akademie &#8211; Testování webových aplikací</title>
+		<link>https://www.zdrojak.cz/zpravicky/seznam-it-akademie-testovani-webovych-aplikaci/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=seznam-it-akademie-testovani-webovych-aplikaci</link>
+		<comments>https://www.zdrojak.cz/zpravicky/seznam-it-akademie-testovani-webovych-aplikaci/#respond</comments>
+		<pubDate>Mon, 08 Oct 2018 11:13:57 +0000</pubDate>
+		<dc:creator><![CDATA[zima]]></dc:creator>
+				<category><![CDATA[Různé]]></category>
+
+		<guid isPermaLink="false">https://www.zdrojak.cz/news/seznam-it-akademie-testovani-webovych-aplikaci/</guid>
+		<description><![CDATA[V Brně chystáme v termínu 9. – 10. 11. bezplatný workshop Seznam IT akademie věnovaný Testování webových aplikací. Neváhejte a přijďte si prohloubit své znalosti v oblasti testování, seznámit se s kolegy Miroslav&#8230;]]></description>
+				<content:encoded><![CDATA[<p>V Brně chystáme v termínu 9. – 10. 11. bezplatný workshop Seznam IT akademie věnovaný <strong>Testování webových aplikací.</strong> Neváhejte a přijďte si prohloubit své znalosti v oblasti testování, seznámit se s kolegy <a href="https://www.linkedin.com/in/ACoAAAyG8RABPKvMrGuUUxpAFz8elCm38ovYCQw/"><b>Miroslav Jančařík</b></a> a <a href="https://www.linkedin.com/in/ACoAABcdXJABQxm6cALyRmiBN5y48PL0nhrBTcw/"><b>Filip Šátek</b></a> a samozřejmě i dalšími návštěvníky workshopu. Veškeré informace o workshopu naleznete na webu -&gt; <a href="https://bit.ly/2O1dGwB">https://bit.ly/2O1dGwB</a></p>
+<p>V případě zájmu se nám prosím ozvěte na <a href="mailto:itakademie@firma.seznam.cz">itakademie@firma.seznam.cz</a>.Uzávěrka přihlášek je do pondělí 29. 10. 2018.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.zdrojak.cz/zpravicky/seznam-it-akademie-testovani-webovych-aplikaci/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Reactive Meetups vol. 5: End-to-end testing with Cypress</title>
+		<link>https://www.zdrojak.cz/zpravicky/reactive-meetups-vol-5-end-to-end-testing-with-cypress/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=reactive-meetups-vol-5-end-to-end-testing-with-cypress</link>
+		<comments>https://www.zdrojak.cz/zpravicky/reactive-meetups-vol-5-end-to-end-testing-with-cypress/#respond</comments>
+		<pubDate>Fri, 05 Oct 2018 10:12:04 +0000</pubDate>
+		<dc:creator><![CDATA[ACTUM Digital]]></dc:creator>
+				<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[Akce]]></category>
+		<category><![CDATA[Praha]]></category>
+
+		<guid isPermaLink="false">https://www.zdrojak.cz/news/reactive-meetups-vol-5-end-to-end-testing-with-cypress/</guid>
+		<description><![CDATA[Další Reactive Meetups je tady. Tentokrát si přijďte poslechnout skvělého speakra Gleba Bahmutova ze Cypress, který je JavaScript ninja a také fanatik do testování. Mluvit bude právě o end-to-end testování, aby bylo rychlé,&#8230;]]></description>
+				<content:encoded><![CDATA[<p>Další Reactive Meetups je tady. Tentokrát si přijďte poslechnout skvělého speakra <strong>Gleba Bahmutova</strong> ze <strong>Cypress</strong>, který je JavaScript ninja a také fanatik do testování. Mluvit bude právě o end-to-end testování, aby bylo rychlé, užitečné a hlavně účinné. Samozřejmě i představí sílu testovacího nástroje Cypress.</p>
+<p>Akce startuje ve čtvrtek 25. října v ACTUM Digital (budova Visionary, Plynární 20, Holešovice).</p>
+<ul>
+<li><a href="https://www.facebook.com/events/1791237414327459/">Facebook událost</a></li>
+<li><a href="https://ti.to/reactive-free/reactivemeetups-prague-E2Etesting">Registrace</a></li>
+</ul>
+<p><img src="https://s.w.org/images/core/emoji/11/72x72/23f1.png" alt="⏱" class="wp-smiley" style="height: 1em; max-height: 1em;" />Časová osa: 18:30 Registrace | 19:00 Zahájení 19:05 Talk | 20:20 Jídlo, pití a networking <img src="https://s.w.org/images/core/emoji/11/72x72/1f355.png" alt="🍕" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/11/72x72/1f37a.png" alt="🍺" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.zdrojak.cz/zpravicky/reactive-meetups-vol-5-end-to-end-testing-with-cypress/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Čtyřiadvacetihodinový hackathon Seznam.cz vyhledávání</title>
+		<link>https://www.zdrojak.cz/zpravicky/hackathon-seznam-cz-vyhledavani/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hackathon-seznam-cz-vyhledavani</link>
+		<comments>https://www.zdrojak.cz/zpravicky/hackathon-seznam-cz-vyhledavani/#respond</comments>
+		<pubDate>Wed, 03 Oct 2018 13:36:24 +0000</pubDate>
+		<dc:creator><![CDATA[martin.jurca]]></dc:creator>
+				<category><![CDATA[Různé]]></category>
+		<category><![CDATA[Akce]]></category>
+		<category><![CDATA[Hackathon]]></category>
+
+		<guid isPermaLink="false">https://www.zdrojak.cz/news/ctyriadvacetihodinovy-hackathon-seznam-cz-vyhledavani/</guid>
+		<description><![CDATA[Seznam.cz zve zájemce z řad veřejnosti na hackathon, který proběhne nad daty z fulltextového vyhledávání. Začátek akce je v pátek 9.11. v 17 h a potrvá 24 hodin na centrále Seznamu (Praha 5 – Anděl). Přihlásit se mohou&#8230;]]></description>
+				<content:encoded><![CDATA[<p>Seznam.cz zve zájemce z řad veřejnosti na <a href="https://blog.seznam.cz/udalost/ctyriadvacetihodinovy-hackathon-seznam-cz-vyhledavani/">hackathon</a>, který proběhne nad daty z fulltextového vyhledávání. Začátek akce je v pátek 9.11. v 17 h a potrvá 24 hodin na centrále Seznamu (Praha 5 – Anděl). Přihlásit se mohou tří až pětičlenné týmy, ale i jednotlivci. Právě pro jednotlivce uspořádáme s týdenním předstihem setkání, abychom umožnili vytvoření týmů.</p>
+<p>Jak bude hackathon probíhat? Dostanete přístup k <a href="https://docs.google.com/document/d/1MFZPxVqdaKkjj2ZresZqvVmqZP4TZ7mWY9KB31oG0jU/edit">datům</a>, ze kterých v Seznamu skládáme odpovědi na hledané dotazy. Dostanete přístup k živému streamu hledaných dotazů a nástroj pro práci s dotazy. Krom toho můžete použít i jiná volně dostupná data. Vítězný projekt či projekty ověříme formou AB testu v reálném provozu v rámci svého vyhledávače, nebo v uživatelských testech.</p>
+<p>V případě zájmu se nám prosím ozvěte na <a href="mailto:hackathon@firma.seznam.cz">hackathon@firma.seznam.cz</a>. Uzávěrka přihlášek je do úterý 23.10.2018.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.zdrojak.cz/zpravicky/hackathon-seznam-cz-vyhledavani/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Seznamte se, React Native</title>
+		<link>https://www.zdrojak.cz/clanky/seznamte-se-react-native/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=seznamte-se-react-native</link>
+		<pubDate>Tue, 02 Oct 2018 22:31:52 +0000</pubDate>
+		<dc:creator><![CDATA[Redakce]]></dc:creator>
+				<category><![CDATA[PR Články]]></category>
+
+		<guid isPermaLink="false">https://www.zdrojak.cz/clanky/?p=21882</guid>
+		<description><![CDATA[ <div><img width="100" height="100" src="https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock-1-e1538493444698-100x100.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock-1-e1538493444698-100x100.jpg 100w, https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock-1-e1538493444698-150x150.jpg 150w, https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock-1-e1538493444698-32x32.jpg 32w, https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock-1-e1538493444698.jpg 299w" sizes="(max-width: 100px) 100vw, 100px" /></div>Proč se nebát React Native a proč začít právě s ním, když už přece znáte React.]]></description>
+				<content:encoded><![CDATA[ <div><img width="100" height="100" src="https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock-1-e1538493444698-100x100.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock-1-e1538493444698-100x100.jpg 100w, https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock-1-e1538493444698-150x150.jpg 150w, https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock-1-e1538493444698-32x32.jpg 32w, https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock-1-e1538493444698.jpg 299w" sizes="(max-width: 100px) 100vw, 100px" /></div><p>Napsali jste kupu webů a webových aplikací v Reactu, nosíte v hlavě nápad na úžasnou mobilní aplikaci a občas si vzpomenete, že existuje něco jako React Native. Možná vám rozhodování urychlím. Vysvětlím základní rozdíly a inovace, které React Native přináší, a ukážu, v čem je jeho krása, jednoduchost i složitost.</p>
+<p>Sám jsem se s React Native setkal teprve před několika měsíci, když jsem začal pracovat na novém projektu v Creative Docku. Po týdnech, kdy se u mě střídalo zoufalství a euforie z pochopení každé malé části této knihovny, jsem se rozhodl podělit o pár zásadních informací, které bych si na začátku sám přál slyšet. Vědět, proč React Native není jen další v řadě a s čím do světa mobilního vývoje přichází, je první krok k tomu, abyste si udělali představu o celém systému. A chtěli se s ním učit.</p>
+<p><a href="https://www.zdrojak.cz/wp-content/uploads/2018/10/perex-pr.jpg"><img class="size-full wp-image-21886 aligncenter" src="https://www.zdrojak.cz/wp-content/uploads/2018/10/perex-pr.jpg" alt="" width="590" height="332" srcset="https://www.zdrojak.cz/wp-content/uploads/2018/10/perex-pr.jpg 590w, https://www.zdrojak.cz/wp-content/uploads/2018/10/perex-pr-450x253.jpg 450w, https://www.zdrojak.cz/wp-content/uploads/2018/10/perex-pr-100x56.jpg 100w" sizes="(max-width: 590px) 100vw, 590px" /></a></p>
+<p>Oproti vývoji mobilních aplikací „webovou“ cestou přináší jednu zásadní změnu. Pokud jste se již setkali s nástroji, jako jsou Ionic, Phonegap, Sencha a podobnými službami, pravděpodobně k React Native přistoupíte s podobnou představou o tom, jak bude vývoj i výsledek vypadat. Nemohli byste být dál od pravdy. V případě React Native se nejedná o žádný wrapper, ve kterém by se zobrazovala vaše webová aplikace, HTML kód, hybridní aplikace ani nic podobného. Výsledným produktem bude plnohodnotná nativní aplikace, složená z nativních komponent dané platformy, pro kterou aplikaci publikujete.</p>
+<p>Jako programátoři nebo i kodéři máte ovšem dostatečné znalosti pro to, abyste s vývojem začali. Zejména způsob stylování aplikace vám bude povědomý a celkem snadno se zorientujete. Zejména, pokud jste se již setkali se styly uvnitř JS. Celý React Native je od začátku navrhován tak, aby vývojářům usnadnil přechod z Reactu. To vystihuje i samotný claim „Learn Once, Write Anywhere“.</p>
+<p>První, čeho si při psaní aplikace hned všimnete – ve chvíli, kdy úspěšně inicializujete vzorovou aplikaci, – budou nové komponenty, ze kterých je aplikace složená. Půjde zejména o „View“ a „Text“. Jako drtivá většina zapálených vývojářů, kteří otevřeli dokumentaci, jen aby došli k „react-native init“, a dále zatím nečetli, se pokusíte udělat v index.js nějakou úpravu, abyste díky fungujícímu hot reloadu ukojili touhu vidět změnu v opravdové nativní aplikaci, která běží v simulátoru.</p>
+<p>Zejména se znalostí kódování vás napadnou desítky html tagů a některý z nich zkusíte přidat. První chyba lávky, a nemusí být v Tróji. Jak jsem již zmínil, kód komponent v React Native vypadá identicky s tím, na který jste byli zvyklí ve webovém vývoji. Jenže technicky nelze použít žádný html tag – prostě proto, že to není web. Je třeba si uvědomit, že každá komponenta, která v konečné fázi renderuje cokoliv do UI, je jedna z existujících nativních komponent dané platformy, nikoliv hezky nastylované html.</p>
+<p>Tyto nativní komponenty samozřejmě nejsou na obou platformách (iOS, Android) totožné a už vůbec ne psané ve stejném jazyce. Proto React Native přichází s určitou dávkou abstrakce, aby kód, který píšete, mohl být z co největší části sdílený mezi platformami.</p>
+<p>Při sebevětší snaze ovšem jednou dojdete do momentu, kdy bude třeba napsat část kódu specifického pro jednu platformu. V jednodušším případě se budou jen mírně lišit props komponenty, jindy bude potřeba použít zcela jinou nativní komponentu. Pro větší rozdíly, kdy se vám mezi platformami rozchází například design celého screenu, můžete využít rozlišování specifických souborů pro danou platformu úpravou názvu souboru „*.ios.js“, či „*.android.js“. V jednodušších případech pouhé inline podmínky. Tak můžete odlišovat nejen soubory s kódem, ale třeba i obrázky. Nejen pro různé platformy, ale třeba i rozlišení.</p>
+<p><a href="https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock.jpg"><img class="aligncenter size-full wp-image-21895" src="https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock.jpg" alt="" width="590" height="332" srcset="https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock.jpg 590w, https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock-450x253.jpg 450w, https://www.zdrojak.cz/wp-content/uploads/2018/10/creativedock-100x56.jpg 100w" sizes="(max-width: 590px) 100vw, 590px" /></a></p>
+<p>Co dělá React Native tak zajímavým oproti jiným nástrojům, které vám dříve umožňovaly tvořit mobilní aplikace za pomoci webových technologií? Zejména jeho architektura, která stále dovoluje využít pro business logiku JavaScript, a přesto vytvářet aplikaci složenou z nativních komponent.</p>
+<p>Velkou změnou je, že celé UI je spuštěno v hlavním vláknu, které má každá aplikace, ale JavaScript engine využívá vlákno jiné. Díky tomu je aplikace v React Native o poznání rychlejší. Odezva rozhraní aplikace se nijak nezhoršuje ani při složitějších výpočtech v JS. Díky nativním komponentám máte oproti běžnému DOMu k dispozici širší možnosti, jak s aplikací interagovat. Můžete například využívat více nativních gest, která by vám běžná webová stránka, byť na mobilním zařízení, nenabízela a na která jsou uživatelé nativních aplikací zvyklí.</p>
+<p>Doufám, že se najde alespoň jediný člověk, který právě teď otevírá terminál a chce zkusit, jak React Native funguje. Pokud vás zaujme víc, třeba se potkáme na nějakém dalším zajímavém projektu u nás v Creative Docku. Právě teď hledáme developery, kteří se s námi pustí do fintechové revoluce. <a href="https://tech.creativedock.com/">Přidejte se</a>!</p>
+<div id="attachment_21887" style="width: 210px" class="wp-caption alignleft"><img class="wp-image-21887" src="https://www.zdrojak.cz/wp-content/uploads/2018/10/ZDROJAK.CZ_Adam-Javurek-1-350x350.jpg" alt="" width="200" height="200" srcset="https://www.zdrojak.cz/wp-content/uploads/2018/10/ZDROJAK.CZ_Adam-Javurek-1-350x350.jpg 350w, https://www.zdrojak.cz/wp-content/uploads/2018/10/ZDROJAK.CZ_Adam-Javurek-1-150x150.jpg 150w, https://www.zdrojak.cz/wp-content/uploads/2018/10/ZDROJAK.CZ_Adam-Javurek-1-100x100.jpg 100w, https://www.zdrojak.cz/wp-content/uploads/2018/10/ZDROJAK.CZ_Adam-Javurek-1-32x32.jpg 32w, https://www.zdrojak.cz/wp-content/uploads/2018/10/ZDROJAK.CZ_Adam-Javurek-1.jpg 420w" sizes="(max-width: 200px) 100vw, 200px" /><p class="wp-caption-text">Autor článku: Adam Javůrek, <a href="https://creativedock.com/">Creative Dock</a></p></div>
+<p>&nbsp;</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Souhrn 39. týdne</title>
+		<link>https://www.zdrojak.cz/clanky/39-tyden-2018/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=39-tyden-2018</link>
+		<comments>https://www.zdrojak.cz/clanky/39-tyden-2018/#respond</comments>
+		<pubDate>Tue, 02 Oct 2018 15:35:17 +0000</pubDate>
+		<dc:creator><![CDATA[Redakce]]></dc:creator>
+				<category><![CDATA[Různé]]></category>
+		<category><![CDATA[tydenni-prehled]]></category>
+
+		<guid isPermaLink="false">https://www.zdrojak.cz/clanky/?p=21900</guid>
+		<description><![CDATA[💻  Neuznávané certifikáty. Firefox Monitor. Atom 1.31. Vivadli 2.0. TypeScript 3.1. Zdrojáky MS-DOS. Modulární CSS. Videa z WebExpa 2018. Arkády v Internet Archivu. Soutěž The Catch 2018. Solod a Inrupt. ]]></description>
+				<content:encoded><![CDATA[<p>Nestíháte vše sledovat? Máte přeplněnou RSS čtečku? Tady jste správně – <a href="https://www.zdrojak.cz/n/tydenni-prehled/">každý týden</a>.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Chrome a Firefox za pár dní přestanou uznávat certifikáty vydané Thawte, VeriSign, GeoTrust, RapidSSL atd. Tyto weby přestanou být v prohlížečích dostupné. Týká se tento problém i státních webů? <br />Týká &#8211; MŽP, <a href="https://twitter.com/hashtag/CUZK?src=hash&amp;ref_src=twsrc%5Etfw">#CUZK</a> a <a href="https://twitter.com/min_dopravy?ref_src=twsrc%5Etfw">@min_dopravy</a>. Ostudou zůstavá <a href="https://twitter.com/vnitro?ref_src=twsrc%5Etfw">@vnitro</a>. <a href="https://t.co/fHGKQXGKtQ">https://t.co/fHGKQXGKtQ</a></p>
+<p>&mdash; Hlídač Státu (@HlidacStatu) <a href="https://twitter.com/HlidacStatu/status/1044560768451178497?ref_src=twsrc%5Etfw">September 25, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Nová služba Firefox Monitor vás upozorní, pokud bylo vaše heslo odcizeno z některé z hacknutých aplikací. <a href="https://t.co/ifj1PUYaAz">https://t.co/ifj1PUYaAz</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1044651166276218881?ref_src=twsrc%5Etfw">September 25, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Rozcestník po tom nejzajímavějším z letošního <a href="https://twitter.com/hashtag/webexpo?src=hash&amp;ref_src=twsrc%5Etfw">#webexpo</a> <a href="https://twitter.com/hashtag/webexpo2018?src=hash&amp;ref_src=twsrc%5Etfw">#webexpo2018</a> fotky, ohlasy, videa. <a href="https://t.co/1yhEkQjQrg">https://t.co/1yhEkQjQrg</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1044666225803096067?ref_src=twsrc%5Etfw">September 25, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr"><img src="https://s.w.org/images/core/emoji/11/72x72/1f5a5.png" alt="🖥" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Vyšlo Vivaldi 2.0.</p>
+<p>Prohlížeč od tvůrců Opery postavený na Chrome, který se soustředí hlavně na pokročilé UI. <a href="https://t.co/uQnbe89EIC">https://t.co/uQnbe89EIC</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1044884028476858368?ref_src=twsrc%5Etfw">September 26, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Webové prohlížeče v ČR v roce 2018: Chrome, Firefox, IE, Edge. Na mobilech postupně roste Samsung a Seznam. <a href="https://t.co/ovhjqWh2cy">https://t.co/ovhjqWh2cy</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1044886248156999680?ref_src=twsrc%5Etfw">September 26, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Co je to modulární CSS?</p>
+<p>Podrobný článek. <a href="https://t.co/ZCVXvfJYHR">https://t.co/ZCVXvfJYHR</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1045006499205001216?ref_src=twsrc%5Etfw">September 26, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Projekt Internet Archive už dávno nearchivuje jenom webové stránky.</p>
+<p>Nyní v něm najdete (a můžete hrát přes web) více než 1100 starých arkádových her. <a href="https://t.co/PKzkHiLiD5">https://t.co/PKzkHiLiD5</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1045023836096401409?ref_src=twsrc%5Etfw">September 26, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="und" dir="ltr">Atom 1.31 a drobné novinky. <a href="https://t.co/ncJT9Tw0e3">https://t.co/ncJT9Tw0e3</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1045025092286251009?ref_src=twsrc%5Etfw">September 26, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">The Catch 2018 je hackerská soutěž od CESNET a Trend Micro.</p>
+<p>Soutěží malé týmy. Registrace je spuštěna. Soutěž začne během října. <a href="https://t.co/f0ZR8bhPhn">https://t.co/f0ZR8bhPhn</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1045031227928059904?ref_src=twsrc%5Etfw">September 26, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">TypScript 3.1. Drobné novinky. Je to jen pár týdnů, co vyšla trojka. <a href="https://t.co/WrMNDuvlIK">https://t.co/WrMNDuvlIK</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1045394007826796545?ref_src=twsrc%5Etfw">September 27, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Záznamy přednášek z <a href="https://twitter.com/hashtag/webexpo?src=hash&amp;ref_src=twsrc%5Etfw">#webexpo</a> už najdete veřejně na webu. A je toho opravdu hodně. <a href="https://t.co/E1TWnHPZOY">https://t.co/E1TWnHPZOY</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1045394909296037888?ref_src=twsrc%5Etfw">September 27, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Tim Berners-Lee představil Inrup &#8211; návrh moderních aplikací, ve kterém mají uživatelé kontrolu nad svými daty. <a href="https://t.co/2qXtt7w57Y">https://t.co/2qXtt7w57Y</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1046661065914945536?ref_src=twsrc%5Etfw">October 1, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Zdrojový kód MS-DOS 1.25 a 2.0 nyní najdete na GitHubu pod MIT licencí.</p>
+<p>Opensourcován byl již před několika lety, nyní přibyl oficiální repozitář na GitHubu. <a href="https://t.co/sCZm7R8bru">https://t.co/sCZm7R8bru</a></p>
+<p>&mdash; Zdroják.cz (@zdrojak) <a href="https://twitter.com/zdrojak/status/1046677988237021184?ref_src=twsrc%5Etfw">October 1, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Creation of a software <a href="https://t.co/jujzEgDNUX">pic.twitter.com/jujzEgDNUX</a></p>
+<p>&mdash; Farbod Saraf (@farbodsaraf) <a href="https://twitter.com/farbodsaraf/status/1046440802698874880?ref_src=twsrc%5Etfw">September 30, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.zdrojak.cz/clanky/39-tyden-2018/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WebExpo 2018 &#8211; fotky, ohlasy, videa</title>
+		<link>https://www.zdrojak.cz/clanky/webexpo-2018-fotky-ohlasy-videa/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=webexpo-2018-fotky-ohlasy-videa</link>
+		<comments>https://www.zdrojak.cz/clanky/webexpo-2018-fotky-ohlasy-videa/#comments</comments>
+		<pubDate>Tue, 25 Sep 2018 19:08:13 +0000</pubDate>
+		<dc:creator><![CDATA[Redakce]]></dc:creator>
+				<category><![CDATA[Různé]]></category>
+		<category><![CDATA[WebExpo]]></category>
+
+		<guid isPermaLink="false">https://www.zdrojak.cz/clanky/?p=21871</guid>
+		<description><![CDATA[ <div><img width="100" height="100" src="https://www.zdrojak.cz/wp-content/uploads/2017/09/Webexpo2017-100x100.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.zdrojak.cz/wp-content/uploads/2017/09/Webexpo2017-100x100.jpg 100w, https://www.zdrojak.cz/wp-content/uploads/2017/09/Webexpo2017-150x150.jpg 150w, https://www.zdrojak.cz/wp-content/uploads/2017/09/Webexpo2017-350x350.jpg 350w, https://www.zdrojak.cz/wp-content/uploads/2017/09/Webexpo2017-32x32.jpg 32w, https://www.zdrojak.cz/wp-content/uploads/2017/09/Webexpo2017.jpg 400w" sizes="(max-width: 100px) 100vw, 100px" /></div>Od pátku do neděle proběhlo 11. WebExpo. Do Prahy přijely sdílet své know-how osobnosti z Googlu, Facebooku i top českých technologických firem. Sdílíme zde několik fotografií, ohlasů návštěvníků a první videa z přednášek.]]></description>
+				<content:encoded><![CDATA[ <div><img width="100" height="100" src="https://www.zdrojak.cz/wp-content/uploads/2017/09/Webexpo2017-100x100.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://www.zdrojak.cz/wp-content/uploads/2017/09/Webexpo2017-100x100.jpg 100w, https://www.zdrojak.cz/wp-content/uploads/2017/09/Webexpo2017-150x150.jpg 150w, https://www.zdrojak.cz/wp-content/uploads/2017/09/Webexpo2017-350x350.jpg 350w, https://www.zdrojak.cz/wp-content/uploads/2017/09/Webexpo2017-32x32.jpg 32w, https://www.zdrojak.cz/wp-content/uploads/2017/09/Webexpo2017.jpg 400w" sizes="(max-width: 100px) 100vw, 100px" /></div><p><iframe width="500" height="281" src="https://www.youtube.com/embed/OTsQdTeB2K0?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="cs" dir="ltr">Dnešní den bude ve znameni <a href="https://twitter.com/hashtag/webexpo2018?src=hash&amp;ref_src=twsrc%5Etfw">#webexpo2018</a> <a href="https://t.co/jx4MZVZ4ve">pic.twitter.com/jx4MZVZ4ve</a></p>
+<p>&mdash; Lukas Říha (@RihaLu) <a href="https://twitter.com/RihaLu/status/1043048044009336833?ref_src=twsrc%5Etfw">September 21, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Great opening to <a href="https://twitter.com/webexpo?ref_src=twsrc%5Etfw">@webexpo</a> 2018! <a href="https://twitter.com/hashtag/webexpo2018?src=hash&amp;ref_src=twsrc%5Etfw">#webexpo2018</a> <a href="https://t.co/0cSVOay835">pic.twitter.com/0cSVOay835</a></p>
+<p>&mdash; Max Gfeller (@mgfeller) <a href="https://twitter.com/mgfeller/status/1043051240421294080?ref_src=twsrc%5Etfw">September 21, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">This was my last warmup round before the <a href="https://twitter.com/hashtag/webexpo2018?src=hash&amp;ref_src=twsrc%5Etfw">#webexpo2018</a>: Today we’ve performed “small” training session on <a href="https://twitter.com/hashtag/designthinking?src=hash&amp;ref_src=twsrc%5Etfw">#designthinking</a> for our Product Managers. See you on Saturday at Lucerna Cinema ;) <a href="https://t.co/Ki9bAFK5vw">pic.twitter.com/Ki9bAFK5vw</a></p>
+<p>&mdash; BoB Marvan (@BoBMarvan) <a href="https://twitter.com/BoBMarvan/status/1042792299498024961?ref_src=twsrc%5Etfw">September 20, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Dear user, I <img src="https://s.w.org/images/core/emoji/11/72x72/2764.png" alt="❤" class="wp-smiley" style="height: 1em; max-height: 1em;" /> your vintage browser. <a href="https://twitter.com/hashtag/webexpo2018?src=hash&amp;ref_src=twsrc%5Etfw">#webexpo2018</a> day 1 <a href="https://twitter.com/hashtag/microcopy?src=hash&amp;ref_src=twsrc%5Etfw">#microcopy</a> <a href="https://t.co/0EOiO8eYGg">pic.twitter.com/0EOiO8eYGg</a></p>
+<p>&mdash; Adam Blažek (@PrincAm) <a href="https://twitter.com/PrincAm/status/1043276395340816384?ref_src=twsrc%5Etfw">September 21, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Rewinding the last 2 days at <a href="https://twitter.com/hashtag/webexpo2018?src=hash&amp;ref_src=twsrc%5Etfw">#webexpo2018</a> and I have to say it was full of interesting speakers, inspiring talks and impactful experiences.</p>
+<p>Big THANK YOU to all the people behind it (<a href="https://twitter.com/SarkaStrossova?ref_src=twsrc%5Etfw">@SarkaStrossova</a>, <a href="https://twitter.com/michalillich?ref_src=twsrc%5Etfw">@michalillich</a>, the staff, MCs, &#8230;).</p>
+<p>Already looking forward to the next one! <a href="https://t.co/lw1HDoD6Xb">pic.twitter.com/lw1HDoD6Xb</a></p>
+<p>&mdash; Martin Štěpánek (@ShimiTheFirst) <a href="https://twitter.com/ShimiTheFirst/status/1043657870338916352?ref_src=twsrc%5Etfw">September 23, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">This year was truly exceptional <img src="https://s.w.org/images/core/emoji/11/72x72/2714.png" alt="✔" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/11/72x72/1f49b.png" alt="💛" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Thanks to all of you for participating, it was a blast! <img src="https://s.w.org/images/core/emoji/11/72x72/1f60d.png" alt="😍" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/11/72x72/1f64c.png" alt="🙌" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://twitter.com/hashtag/webexpo2018?src=hash&amp;ref_src=twsrc%5Etfw">#webexpo2018</a> <a href="https://twitter.com/hashtag/webexpo2019?src=hash&amp;ref_src=twsrc%5Etfw">#webexpo2019</a> <a href="https://t.co/bjFhLaJ0dg">pic.twitter.com/bjFhLaJ0dg</a></p>
+<p>&mdash; WebExpo (@webexpo) <a href="https://twitter.com/webexpo/status/1044248897181429760?ref_src=twsrc%5Etfw">September 24, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">This is tweetable:<br />❝At the time of endless possibilities, it’s up to us—the designers—to help others choose the best way how a technology should support the humankind.<br />— <a href="https://twitter.com/BoBMarvan?ref_src=twsrc%5Etfw">@BoBMarvan</a> at <a href="https://twitter.com/hashtag/webexpo2018?src=hash&amp;ref_src=twsrc%5Etfw">#webexpo2018</a> <a href="https://t.co/HAOhbx4pc6">pic.twitter.com/HAOhbx4pc6</a></p>
+<p>&mdash; Martin Kopta (@atpok) <a href="https://twitter.com/atpok/status/1043473106998824961?ref_src=twsrc%5Etfw">September 22, 2018</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<h2>Přednášky online</h2>
+<p>Přednášky byly natáčeny. <a href="https://slideslive.com/t/webexpo">Videa několika z nich již jsou online</a>.</p>
+<h2>Ohlasy</h2>
+<ul>
+<li><a href="https://medium.com/@Ztudeny/9-5-h-p%C5%99edn%C3%A1%C5%A1ek-10-k%C3%A1v-a-2-l-duchovice-webexpo2018-8c25da9b2676">Zdeněk Studený: 9,5 h přednášek, 10 káv a 2 l duchovice –WebExpo2018</a></li>
+<li><a href="https://medium.com/@terezakosnarova/webexpo-2018-pohledem-v%C3%BDzkumn%C3%ADka-337b0d8f81c6">Tereza Kosnarová Venerová: Webexpo 2018 pohledem výzkumník</a></li>
+<li><a href="http://annacopy.cz/2018/09/23/co-si-odnesl-copywriter-z-webexpo-2018/">Anička Sálová: Co si odnesl copywriter z WebExpo 2018?</a></li>
+<li><a href="http://www.likeable.sk/kto-vychova-umelu-inteligenciu-dalsie-dojmy-z-webexpo-2018/">Dávid Starinský: Kto vychová umelú inteligenciu? + ďalšie dojmy z WEBEXPO 2018</a></li>
+<li><a href="https://www.vzhurudolu.cz/blog/122-webexpo-2018">Martin Michálek: Poznámky z WebExpo 2018: AMP, variabilní fonty, performance a spousta dalšího</a></li>
+<li><a href="https://www.czechcrunch.cz/2018/09/webexpo-2018-jak-neobjektivni-data-mohou-vytvorit-rasistickou-umelou-inteligenci/">Jiří Svoboda: WebExpo 2018: Jak neobjektivní data mohou vytvořit rasistickou umělou inteligenci</a></li>
+</ul>
+<p>Pokud víte o dalších ohlasech, přidejte je do komentářů.</p>
+<p>Zdroják byl mediálním partnerem celé <a href="https://www.webexpo.net/prague2018">akce</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.zdrojak.cz/clanky/webexpo-2018-fotky-ohlasy-videa/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>V Praze se vyvíjejí auta bez řidiče</title>
+		<link>https://www.zdrojak.cz/clanky/v-praze-se-vyvijeji-auta-bez-ridice/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=v-praze-se-vyvijeji-auta-bez-ridice</link>
+		<pubDate>Mon, 24 Sep 2018 23:01:20 +0000</pubDate>
+		<dc:creator><![CDATA[Redakce]]></dc:creator>
+				<category><![CDATA[PR Články]]></category>
+
+		<guid isPermaLink="false">https://www.zdrojak.cz/clanky/?p=21840</guid>
+		<description><![CDATA[Chcete nahlédnout do blízké budoucnosti? Podívat se, jak se vyvíjí autonomní systémy řízení? A vyzkoušet si, jak fungují? Přijďte 18. 10. na <a href="http://www.denchytrychaut.cz/?utm_source=zdrojak&#038;utm_medium=referral&#038;utm_campaign=dcha10-2018&#038;utm_content=PRclanekZdrojak">Den chytrých aut</a> do pražského vývojového centra Valeo. ]]></description>
+				<content:encoded><![CDATA[<p>Česká republika je automobilová velmoc nejen z hlediska výroby samotných aut a příslušenství. Vyvíjejí se zde a testují ty nejmodernější asistenční systémy, díky kterým jsou auta bezpečnější a již brzy budou jezdit bez zásahu řidiče. Klíčovým hráčem v této oblasti je skupina Valeo, která si v roce 2013 jako jedno z center vývoje automatizovaných řídicích systémů vybrala Prahu. V oblasti vývoje parkovacích asistenčních systémů a integrace senzorů do automobilů je Valeo jedničkou na světovém trhu.</p>
+<div id="attachment_21845" style="width: 430px" class="wp-caption aligncenter"><a href="https://www.zdrojak.cz/wp-content/uploads/2018/09/Valeo-6.9.2016-photo-Zdenek-Sluka-0123.jpg"><img class="wp-image-21845 size-full" src="https://www.zdrojak.cz/wp-content/uploads/2018/09/Valeo-6.9.2016-photo-Zdenek-Sluka-0123.jpg" alt="" width="420" height="309" srcset="https://www.zdrojak.cz/wp-content/uploads/2018/09/Valeo-6.9.2016-photo-Zdenek-Sluka-0123.jpg 420w, https://www.zdrojak.cz/wp-content/uploads/2018/09/Valeo-6.9.2016-photo-Zdenek-Sluka-0123-100x74.jpg 100w" sizes="(max-width: 420px) 100vw, 420px" /></a><p class="wp-caption-text">Pražské Valeo se zasloužilo o velký posun směrem k autonomním autům budoucnosti.</p></div>
+<h2><b>Vývoj od</b> A<b> do Z</b></h2>
+<p>V pražském R&amp;D centru provádějí vývojáři komplexní vývoj „od A do Z“, tedy od sběru zákaznických požadavků, software a hardware, mechanického designu, elektrických testů, až po systémové testy na testovacím polygonu v Milovicích, nebo přímo v reálném provozu. V hlavním městě nebo ve středních Čechách proto můžete pravidelně narazit na testovací automobily, které na první pohled poznáte například podle Lidar senzoru na střeše a zkušební registrační značky začínající písmenem F.</p>
+<p>V Praze se vyvíjejí dvě základní skupiny asistenčních systémů &#8211; automatické parkovací systémy a systémy aktivní bezpečnosti, které pronikají do základní výbavy i levnějších aut. Dnes prakticky nenajdete automobil, který by neměl nějaký senzor či kameru od společnosti Valeo. V Praze například naučili parkovat nové modely Mercedes-Benz zvenku pomocí mobilu.</p>
+<h2><b>Podívejte</b><b> se</b> do<b> laboratoří</b></h2>
+<p>Valeo každý rok pravidelně umožňuje nahlédnout pod pokličku svého vývoje, a to v rámci akce <a href="http://www.denchytrychaut.cz/?utm_source=zdrojak&amp;utm_medium=referral&amp;utm_campaign=dcha10-2018&amp;utm_content=PRclanekZdrojak">Den chytrých aut</a>. Ta se letos uskuteční ve čtvrtek 18. října od 15 hodin, a to přímo ve vývojovém centru Valeo. Nová moderní budova leží jen pět minut od konečné stanice metra trasy A, Depo Hostivař, takže je skvěle dostupná. Účastníci zde budou mít možnost si popovídat s inženýry, kteří se podílejí na vývoji hardware i software. A samozřejmě si některé systémy vyzkoušet na testovací ploše uvnitř areálu. Pro účast je třeba se však <a href="http://www.denchytrychaut.cz/registrace/?utm_source=zdrojak&amp;utm_medium=referral&amp;utm_campaign=dcha10-2018&amp;utm_content=PRclanekZdrojak">dopředu registrovat</a>.</p>
+<div id="attachment_21846" style="width: 430px" class="wp-caption aligncenter"><a href="https://www.zdrojak.cz/wp-content/uploads/2018/09/Software-engineer-9.jpg"><img class="wp-image-21846 size-full" src="https://www.zdrojak.cz/wp-content/uploads/2018/09/Software-engineer-9.jpg" alt="" width="420" height="280" srcset="https://www.zdrojak.cz/wp-content/uploads/2018/09/Software-engineer-9.jpg 420w, https://www.zdrojak.cz/wp-content/uploads/2018/09/Software-engineer-9-100x67.jpg 100w" sizes="(max-width: 420px) 100vw, 420px" /></a><p class="wp-caption-text">V pražském centru probíhá celý vývojový cyklus. Od napsání software pro novou technologii po testování v normálním silničním provozu.</p></div>
+<h2>Stále se rozšiřuje</h2>
+<p>Vzhledem k neustálému růstu zakázek a rozšiřování vývojového týmu došlo v roce 2017 k přestěhování R&amp;D centra do nového areálu v Praze Strašnicích, který byl postaven na s celkovými náklady více než 600 milionů korun. Letos na začátku dubna však byla otevřena další budova v hodnotě 125 milionů korun o rozloze 2300 m<sup>2</sup>, která poskytuje kancelářské a zkušební kapacity pro dalších 250 inženýrů. Celkově má R&amp;D centrum Valeo v současnosti rozlohu přes 11 000 m<sup>2</sup>, z nichž třetinu zabírají laboratoře vybavené nejmodernějšími testovacími technologiemi.</p>
+<h2>Příležitost pro vývojáře</h2>
+<p>V souvislosti s rozšiřováním vývojových kapacit hledá Valeo i nové kolegy, kteří mají chuť být součástí mezinárodního týmu a podílet se na vytváření budoucnosti aut. Od vývoje až po testování v reálném provozu. Jak třeba vypadá zkoušení laserového skeneru ScaLa pro autonomní řízení, uvidíte v následujícím <a href="https://www.youtube.com/watch?v=Ojzx4rqmoBY">videu</a>.</p>
+<p><iframe width="500" height="281" src="https://www.youtube.com/embed/Ojzx4rqmoBY?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+Připsaný řádek _____________________________________________--Připsaný řádek _____________________________________________--Připsaný řádek _____________________________________________--Připsaný řádek _____________________________________________--

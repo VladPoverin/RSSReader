@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6c304af-fe95-4e9b-91f8-9e90c3162751" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PRO2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/.idea/Projekt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/built-jar.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/.netbeans_automatic_build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/.netbeans_update_resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/Cv1/Auto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/Cv2/Auto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/Cv2/Motor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/Cv2/Pasazer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/Cv2/Ukol/Osoba.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/Cv2/Ukol/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/Cv2/Ukol/Ucitel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/Cv2/Ukol/VyucujiciHod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/Cv2/Vozidlo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/Main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/gui/MainFrame$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/obrazce/Ctverec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/obrazce/Kruh.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/obrazce/Obdelnik.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/obrazce/dedicnost/Ctverec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/obrazce/dedicnost/Kruh.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/obrazce/dedicnost/Obdelnik.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/obrazce/dedicnost/Obrazec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/obrazce/rozhrani/CtverecInt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/obrazce/rozhrani/KruhInt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/obrazce/rozhrani/ObdelnikInt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/obrazce/rozhrani/ObrazecInt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/src/gui/MainFrame$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/src/gui/MainFrame$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/src/gui/MainFrame$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/src/gui/MainFrame$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/src/gui/MainFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/src/gui/MainFrame.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/src/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/vozidlo/Auto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/vozidlo/Motor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/vozidlo/Pasazer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/vozidlo/Vozidlo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/vyucovaciHodina/Osoba.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/vyucovaciHodina/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/vyucovaciHodina/Ucitel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/vyucovaciHodina/VyucovaciHodina.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/build/classes/zlomky/Zlomek.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/dist/Projekt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/dist/README.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/nbproject/private/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/Cv1/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/Cv2/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/Cv2/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/Cv2/Pasazer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/Cv2/Ukol/Osoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/Cv2/Ukol/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/Cv2/Ukol/Ucitel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/Cv2/Ukol/VyucujiciHod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/Cv2/Vozidlo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/Main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/obrazce/Ctverec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/obrazce/Kruh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/obrazce/Obdelnik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/src/gui/MainFrame.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/src/gui/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/src/obrazce/dedicnost/Ctverec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/src/obrazce/dedicnost/Kruh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/src/obrazce/dedicnost/Obdelnik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/src/obrazce/dedicnost/Obrazec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/src/obrazce/rozhrani/CtverecInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/src/obrazce/rozhrani/KruhInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/src/obrazce/rozhrani/ObdelnikInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/src/obrazce/rozhrani/ObrazecInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/src/vozidlo/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/src/vozidlo/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/src/vozidlo/Pasazer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/src/vozidlo/Vozidlo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/src/vyucovaciHodina/Osoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/src/vyucovaciHodina/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/src/vyucovaciHodina/Ucitel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/src/vyucovaciHodina/VyucovaciHodina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt/src/zlomky/Zlomek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projekt1.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hlavni-zpravy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PRO2/cz/uhk/fim/rssreader/app/App$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PRO2/cz/uhk/fim/rssreader/app/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PRO2/cz/uhk/fim/rssreader/gui/MainFrame$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PRO2/cz/uhk/fim/rssreader/gui/MainFrame$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PRO2/cz/uhk/fim/rssreader/gui/MainFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PRO2/cz/uhk/fim/rssreader/model/RSSitem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PRO2/cz/uhk/fim/rssreader/utils/FileUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PROM/cz/uhk/fim/rssreader/app/App$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PROM/cz/uhk/fim/rssreader/app/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PROM/cz/uhk/fim/rssreader/gui/MainFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PROM/cz/uhk/fim/rssreader/model/RSSitem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PROM/cz/uhk/fim/rssreader/utils/FileUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cz/uhk/fim/rssreader/model/RSSitem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cz/uhk/fim/rssreader/utils/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cz/uhk/fim/rssreader/utils/ItemHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cz/uhk/fim/rssreader/utils/RSSParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www.zdrojak.cz.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cz/uhk/fim/rssreader/app/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cz/uhk/fim/rssreader/app/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cz/uhk/fim/rssreader/gui/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cz/uhk/fim/rssreader/gui/MainFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cz/uhk/fim/rssreader/model/RSSList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cz/uhk/fim/rssreader/model/RSSList.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-353908553">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="5" />
+          <entry key="java" value="2002" />
+          <entry key="txt" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2002" />
+          <entry key="PLAIN_TEXT" value="22" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cz/uhk/fim/rssreader/app/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cz/uhk/fim/rssreader/gui/MainFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="47" column="52" selection-start-line="47" selection-start-column="52" selection-end-line="47" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cz/uhk/fim/rssreader/utils/ItemHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cz/uhk/fim/rssreader/utils/RSSParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cz/uhk/fim/rssreader/model/RSSList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/cz/uhk/fim/rssreader/gui/MainFrame.java" />
+        <option value="$PROJECT_DIR$/src/cz/uhk/fim/rssreader/utils/ItemHendler.java" />
+        <option value="$PROJECT_DIR$/src/cz/uhk/fim/rssreader/utils/RSSParser.java" />
+        <option value="$PROJECT_DIR$/src/cz/uhk/fim/rssreader/utils/ItemHandler.java" />
+        <option value="$PROJECT_DIR$/src/cz/uhk/fim/rssreader/model/RSSList.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PRO2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PRO2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PRO2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PRO2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PRO2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PRO2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="rssreader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PRO2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PRO2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="rssreader" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PRO2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PRO2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="rssreader" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PRO2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PRO2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="rssreader" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PRO2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PRO2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="rssreader" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540375173239" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cz.uhk.fim.rssreader.app.App" />
+      <module name="PRO2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6c304af-fe95-4e9b-91f8-9e90c3162751" name="Default Changelist" comment="" />
+      <created>1540285712214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540285712214</updated>
+      <workItem from="1540285716882" duration="1049000" />
+      <workItem from="1540313478581" duration="388000" />
+      <workItem from="1540325512341" duration="3580000" />
+      <workItem from="1540374756586" duration="415000" />
+    </task>
+    <task id="LOCAL-00001" summary="Pro2 RSSReader">
+      <created>1540374910148</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540374910149</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5432000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25416037" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295082" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3295082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Pro2 RSSReader" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pro2 RSSReader" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/cz/uhk/fim/rssreader/app/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cz/uhk/fim/rssreader/gui/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="47" column="52" selection-start-line="47" selection-start-column="52" selection-end-line="47" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cz/uhk/fim/rssreader/utils/ItemHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cz/uhk/fim/rssreader/utils/RSSParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cz/uhk/fim/rssreader/model/RSSList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>PRO2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
